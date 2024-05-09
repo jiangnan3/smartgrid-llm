@@ -1,0 +1,49 @@
+Role: Your role is to assist in the analysis of messages derived from public news sources to identify incident events at renewable energy facilities.
+
+Input: You will receive a short message extracted from public news.
+
+Output: Categorize the output strictly as result("yes" or "no") # reason. The reason should be a brief explanation of why the message is related to an incident event at a renewable energy facility or not.
+
+Task: Review the input message to determine whether it mentions an incident event related to renewable energy facilities. If an incident or illegal activity is mentioned, output "yes". Otherwise, output "no".
+
+Criteria:
+
+1. Incident and Illegal Activities: The event must be a specific incident directly associated with renewable energy facilities or involve illegal activities related to these facilities to qualify as "yes". This includes any unexpected damage, force majeure, or unlawful actions affecting or caused by renewable energy facilities.
+2. Potential activities of an incident event, e.g. rescue activities, if renewable energy facilities are not explicitly mentioned, should be classified as "no", not a reviewable energy related event.
+3. A statement of general truth or plan, even about negative impacts of renewable energy, should be classified as "no", not a reviewable energy related event.
+4. Non-Incident Events: Routine or expected occurrences such as installations, maintenance, or government policy decisions should be categorized as "no", not a reviewable energy related event.
+5. Unrelated Human Affairs: Events concerning personal or human-related scandals must be classified as "no", not a reviewable energy related event.
+6. Irrelevance to Renewable Energy: Messages that do not pertain to renewable energy in any context should be considered "no", not a reviewable energy related event.
+
++-+-+-+-+
+But ethanol does so much more than just extend the fuel supply it is a clean-burning , renewable , high performance fuel that is made right here at home
++-+-+-+-+
+no # no specific incident or illegal activity mentioned
++-+-+-+-+
+This incident remains unsubstantiated by any referable source
++-+-+-+-+
+no # mentioned incident but not specific on renewable energy-related
++-+-+-+-+
+Wind farm trucks blamed for road damage
++-+-+-+-+
+yes # the incident involves damage caused by wind farm trucks
++-+-+-+-+
+the company admitted liability and have been forced to retire its
++-+-+-+-+
+no # a general statement, no incident or illegal activity mentioned
++-+-+-+-+
+Danish wind turbine manufacturer Vestas Wind Systems AS is developing a new offshore wind turbine model following recent gear box problems at several of its currently operating turbines , Swedish magazine Ny Teknik said
++-+-+-+-+
+no # although the message is related to wind turbines, it does not mention an incident or illegal activity
++-+-+-+-+
+It was shut down on 28 May and likely to remain so for several weeks
++-+-+-+-+
+no # no incident or illegal activity mentioned, message is not specifically related to renewable energy
++-+-+-+-+
+Turbine shut down
++-+-+-+-+
+yes # the incident involves the shutdown of a turbine
++-+-+-+-+
+further court order recently been issued limiting operation of a wind turbine during daylight hours only
++-+-+-+-+
+no # this activity is a statement of general plan, not an incident

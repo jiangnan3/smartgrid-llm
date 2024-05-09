@@ -1,0 +1,9002 @@
+{
+    "0": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "7",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "WY",
+            "476",
+            "0"
+        ],
+        [
+            "2",
+            "9777",
+            "Johnson City - (TN)",
+            "TN",
+            "0",
+            "77,458"
+        ],
+        [
+            "7",
+            "10704",
+            "City of Lansing - (MI)",
+            "MI",
+            "1,051",
+            "140"
+        ],
+        [
+            "4",
+            "15473",
+            "Public Service Co of NM",
+            "NM",
+            "33,398",
+            "0"
+        ],
+        [
+            "12",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,848"
+        ],
+        [
+            "2",
+            "20332",
+            "Wells Rural Electric Co",
+            "UT",
+            "716",
+            "0"
+        ],
+        [
+            "2",
+            "7625",
+            "City of Greeneville - (TN)",
+            "TN",
+            "0",
+            "37,856"
+        ],
+        [
+            "3",
+            "18260",
+            "Surprise Valley Electrification",
+            "NV",
+            "0",
+            "0"
+        ],
+        [
+            "11",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "AL",
+            "328",
+            "0"
+        ],
+        [
+            "4",
+            "9726",
+            "Jersey Central Power & Lt Co",
+            "NJ",
+            "3,808",
+            "0"
+        ]
+    ],
+    "10": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "19840",
+            "Valley Electric Assn, Inc",
+            "CA",
+            "44",
+            "0"
+        ],
+        [
+            "10",
+            "12866",
+            "Moon Lake Electric Assn Inc",
+            "CO",
+            "2,204",
+            "0"
+        ],
+        [
+            "9",
+            "17874",
+            "City of St George",
+            "UT",
+            "29,290",
+            "0"
+        ],
+        [
+            "2",
+            "17845",
+            "City of Springville - (UT)",
+            "UT",
+            "10,811",
+            "0"
+        ],
+        [
+            "12",
+            "13032",
+            "Mt Carmel Public Utility Co",
+            "IL",
+            "0",
+            "0"
+        ],
+        [
+            "4",
+            "15500",
+            "Puget Sound Energy Inc",
+            "WA",
+            "1,133,225",
+            "4,877"
+        ],
+        [
+            "10",
+            "817",
+            "Arkansas Valley Elec Coop Corp",
+            "AR",
+            "0",
+            "54,353"
+        ],
+        [
+            "6",
+            "16565",
+            "Salmon River Electric Coop Inc",
+            "ID",
+            "0",
+            "2,851"
+        ],
+        [
+            "12",
+            "20997",
+            "Yellowstone Valley Elec Co-op",
+            "MT",
+            "19,321",
+            "0"
+        ],
+        [
+            "9",
+            "1167",
+            "Baltimore Gas & Electric Co",
+            "MD",
+            "71,892",
+            "1,235,431"
+        ]
+    ],
+    "20": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "7",
+            "3278",
+            "AEP Texas Central Company",
+            "TX",
+            "129",
+            "831,699"
+        ],
+        [
+            "4",
+            "11171",
+            "Long Island Power Authority",
+            "NY",
+            "19,140",
+            "8,846"
+        ],
+        [
+            "7",
+            "13815",
+            "Northwestern Wisconsin Elec Co",
+            "WI",
+            "984",
+            "0"
+        ],
+        [
+            "8",
+            "19790",
+            "Verendrye Electric Coop Inc",
+            "ND",
+            "0",
+            "16,364"
+        ],
+        [
+            "3",
+            "16604",
+            "City of San Antonio - (TX)",
+            "TX",
+            "368,419",
+            "288,199"
+        ],
+        [
+            "4",
+            "4373",
+            "Cornhusker Public Power Dist",
+            "NE",
+            "9,442",
+            "0"
+        ],
+        [
+            "1",
+            "13815",
+            "Northwestern Wisconsin Elec Co",
+            "MN",
+            "57",
+            "0"
+        ],
+        [
+            "2",
+            "7716",
+            "Groton Dept of Utilities - (CT)",
+            "CT",
+            "13,168",
+            "0"
+        ],
+        [
+            "8",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "ND",
+            "94,204",
+            "0"
+        ],
+        [
+            "12",
+            "12796",
+            "Monongahela Power Co",
+            "WV",
+            "34,866",
+            "0"
+        ]
+    ],
+    "30": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "20413",
+            "Mountrail-Williams Elec Coop",
+            "ND",
+            "19,592",
+            "0"
+        ],
+        [
+            "7",
+            "6342",
+            "First Electric Coop Corp",
+            "AR",
+            "0",
+            "93,303"
+        ],
+        [
+            "3",
+            "15270",
+            "Potomac Electric Power Co",
+            "DC",
+            "2,103",
+            "277,998"
+        ],
+        [
+            "7",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "MT",
+            "0",
+            "42"
+        ],
+        [
+            "6",
+            "10451",
+            "Kotzebue Electric Assn Inc",
+            "AK",
+            "79",
+            "1,058"
+        ],
+        [
+            "4",
+            "3278",
+            "AEP Texas Central Company",
+            "TX",
+            "127",
+            "830,032"
+        ],
+        [
+            "12",
+            "4717",
+            "Dakota Valley Elec Coop Inc",
+            "ND",
+            "6,533",
+            "0"
+        ],
+        [
+            "9",
+            "5399",
+            "Duck River Elec Member Corp",
+            "TN",
+            "0",
+            "5,665"
+        ],
+        [
+            "3",
+            "16496",
+            "Rutherford Elec Member Corp",
+            "NC",
+            "0",
+            "68,686"
+        ],
+        [
+            "5",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "SD",
+            "0",
+            "68,148"
+        ]
+    ],
+    "40": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "14534",
+            "City of Pasadena - (CA)",
+            "CA",
+            "63,157",
+            "0"
+        ],
+        [
+            "7",
+            "20860",
+            "Wisconsin Public Service Corp",
+            "WI",
+            "444,576",
+            "0"
+        ],
+        [
+            "7",
+            "5027",
+            "Delmarva Power",
+            "MD",
+            "80",
+            "0"
+        ],
+        [
+            "11",
+            "5027",
+            "Delmarva Power",
+            "DE",
+            "57",
+            "293,663"
+        ],
+        [
+            "4",
+            "14534",
+            "City of Pasadena - (CA)",
+            "CA",
+            "63,157",
+            "0"
+        ],
+        [
+            "2",
+            "18642",
+            "Tennessee Valley Authority",
+            "KY",
+            "0",
+            "66"
+        ],
+        [
+            "2",
+            "4356",
+            "Colorado River Comm of Nevada",
+            "NV",
+            "0",
+            "23"
+        ],
+        [
+            "12",
+            "19791",
+            "Vermont Electric Cooperative, Inc",
+            "VT",
+            "41,025",
+            "0"
+        ],
+        [
+            "4",
+            "9191",
+            "Idaho Power Co",
+            "OR",
+            "296",
+            "17,415"
+        ],
+        [
+            "1",
+            "18429",
+            "City of Tacoma - (WA)",
+            "WA",
+            "482",
+            "15,614"
+        ]
+    ],
+    "50": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "3249",
+            "Central Hudson Gas & Elec Corp",
+            "NY",
+            "119,053",
+            "0"
+        ],
+        [
+            "11",
+            "3287",
+            "Central Valley Elec Coop, Inc",
+            "NM",
+            "77",
+            "15,334"
+        ],
+        [
+            "3",
+            "13441",
+            "New Hampshire Elec Coop Inc",
+            "NH",
+            "23",
+            "84,173"
+        ],
+        [
+            "6",
+            "11204",
+            "Los Alamos County",
+            "NM",
+            "100",
+            "1,683"
+        ],
+        [
+            "3",
+            "22053",
+            "Kentucky Power Co",
+            "KY",
+            "168,854",
+            "3"
+        ],
+        [
+            "4",
+            "10000",
+            "Kansas City Power & Light Co",
+            "KS",
+            "155",
+            "231,901"
+        ],
+        [
+            "8",
+            "11479",
+            "Madison Gas & Electric Co",
+            "WI",
+            "142,405",
+            "7,017"
+        ],
+        [
+            "6",
+            "3287",
+            "Central Valley Elec Coop, Inc",
+            "NM",
+            "294",
+            "14,964"
+        ],
+        [
+            "11",
+            "12647",
+            "ALLETE, Inc.",
+            "MN",
+            "93,400",
+            "54,979"
+        ],
+        [
+            "8",
+            "963",
+            "Atlantic City Electric Co",
+            "NJ",
+            "1,214",
+            "0"
+        ]
+    ],
+    "60": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "15444",
+            "Provo City Corp",
+            "UT",
+            "4,708",
+            "1,204"
+        ],
+        [
+            "1",
+            "689",
+            "Connexus Energy",
+            "MN",
+            "0",
+            "0"
+        ],
+        [
+            "4",
+            "11204",
+            "Los Alamos County",
+            "NM",
+            "100",
+            "1,692"
+        ],
+        [
+            "12",
+            "19876",
+            "Virginia Electric & Power Co",
+            "NC",
+            "108,040",
+            "4,891"
+        ],
+        [
+            "7",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "19,204",
+            "1,026"
+        ],
+        [
+            "11",
+            "16286",
+            "Rosebud Electric Coop Inc",
+            "SD",
+            "0",
+            "5,472"
+        ],
+        [
+            "3",
+            "221",
+            "Alaska Village Elec Coop, Inc",
+            "AK",
+            "10,879",
+            "0"
+        ],
+        [
+            "4",
+            "20332",
+            "Wells Rural Electric Co",
+            "UT",
+            "713",
+            "0"
+        ],
+        [
+            "10",
+            "6022",
+            "City of Eugene - (OR)",
+            "OR",
+            "0",
+            "0"
+        ],
+        [
+            "7",
+            "13718",
+            "City of North Little Rock - (AR)",
+            "AR",
+            "26",
+            "36,680"
+        ]
+    ],
+    "70": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "27058",
+            "High West Energy, Inc",
+            "CO",
+            "982",
+            "0"
+        ],
+        [
+            "9",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "AR",
+            "0",
+            "68,634"
+        ],
+        [
+            "10",
+            "14715",
+            "PPL Electric Utilities Corp",
+            "PA",
+            "0",
+            "1,427,128"
+        ],
+        [
+            "10",
+            "19574",
+            "Upper Cumberland E M C",
+            "TN",
+            "0",
+            "49,263"
+        ],
+        [
+            "5",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "695"
+        ],
+        [
+            "6",
+            "17698",
+            "Southwestern Electric Power Co",
+            "TX",
+            "175,787",
+            "0"
+        ],
+        [
+            "12",
+            "12341",
+            "MidAmerican Energy Co",
+            "IL",
+            "84,628",
+            "0"
+        ],
+        [
+            "2",
+            "24590",
+            "Unitil Energy Systems",
+            "NH",
+            "200",
+            "74,407"
+        ],
+        [
+            "5",
+            "4110",
+            "Commonwealth Edison Co",
+            "IL",
+            "4,421",
+            "2,365,271"
+        ],
+        [
+            "3",
+            "17564",
+            "South Kentucky Rural E C C",
+            "KY",
+            "0",
+            "66,647"
+        ]
+    ],
+    "80": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "9739",
+            "Joe Wheeler Elec Member Corp",
+            "AL",
+            "0",
+            "43,183"
+        ],
+        [
+            "2",
+            "8901",
+            "CenterPoint Energy",
+            "TX",
+            "8,766",
+            "2,367,193"
+        ],
+        [
+            "2",
+            "13441",
+            "New Hampshire Elec Coop Inc",
+            "NH",
+            "23",
+            "84,164"
+        ],
+        [
+            "8",
+            "17833",
+            "City Utilities of Springfield - (MO)",
+            "MO",
+            "5,603",
+            "17,060"
+        ],
+        [
+            "10",
+            "10071",
+            "Kauai Island Utility Cooperative",
+            "HI",
+            "1,150",
+            "30,985"
+        ],
+        [
+            "6",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "WY",
+            "471",
+            "0"
+        ],
+        [
+            "7",
+            "20169",
+            "Avista Corp",
+            "ID",
+            "128,264",
+            "0"
+        ],
+        [
+            "5",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "UT",
+            "409",
+            "3"
+        ],
+        [
+            "5",
+            "20038",
+            "Town of Wallingford - (CT)",
+            "CT",
+            "7,801",
+            "0"
+        ],
+        [
+            "7",
+            "10451",
+            "Kotzebue Electric Assn Inc",
+            "AK",
+            "79",
+            "1,058"
+        ]
+    ],
+    "90": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "3",
+            "3093",
+            "Carroll Electric Coop Corp - (AR)",
+            "AR",
+            "0",
+            "82,418"
+        ],
+        [
+            "6",
+            "18260",
+            "Surprise Valley Electrification",
+            "NV",
+            "0",
+            "0"
+        ],
+        [
+            "10",
+            "6455",
+            "Duke Energy Florida, LLC",
+            "FL",
+            "1,647,064",
+            "77,518"
+        ],
+        [
+            "6",
+            "54913",
+            "NSTAR Electric Company",
+            "MA",
+            "1,215,009",
+            "0"
+        ],
+        [
+            "8",
+            "12090",
+            "McLean Electric Coop, Inc",
+            "ND",
+            "3,973",
+            "0"
+        ],
+        [
+            "5",
+            "15248",
+            "Portland General Electric Co",
+            "OR",
+            "0",
+            "858,889"
+        ],
+        [
+            "4",
+            "18206",
+            "Strawberry Electric Serv Dist",
+            "UT",
+            "3,497",
+            "0"
+        ],
+        [
+            "3",
+            "3408",
+            "City of Chattanooga - (TN)",
+            "GA",
+            "0",
+            "10,484"
+        ],
+        [
+            "10",
+            "9601",
+            "Jackson Electric Member Corp - (GA)",
+            "GA",
+            "0",
+            "217,224"
+        ],
+        [
+            "11",
+            "16213",
+            "Rockland Electric Co",
+            "NJ",
+            "21,810",
+            "0"
+        ]
+    ],
+    "100": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "19840",
+            "Valley Electric Assn, Inc",
+            "NV",
+            "21,487",
+            "0"
+        ],
+        [
+            "2",
+            "40051",
+            "Texas-New Mexico Power Co",
+            "TX",
+            "0",
+            "223,484"
+        ],
+        [
+            "6",
+            "16572",
+            "Salt River Project",
+            "AZ",
+            "3",
+            "893,718"
+        ],
+        [
+            "4",
+            "4715",
+            "Dahlberg Light & Power Co",
+            "WI",
+            "0",
+            "0"
+        ],
+        [
+            "4",
+            "27058",
+            "High West Energy, Inc",
+            "WY",
+            "5,881",
+            "0"
+        ],
+        [
+            "10",
+            "1613",
+            "Berkeley Electric Coop Inc",
+            "SC",
+            "25",
+            "91,788"
+        ],
+        [
+            "10",
+            "10000",
+            "Kansas City Power & Light Co",
+            "KS",
+            "159",
+            "233,020"
+        ],
+        [
+            "3",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "18,718",
+            "651"
+        ],
+        [
+            "2",
+            "20455",
+            "Western Massachusetts Electric Company",
+            "MA",
+            "216,338",
+            "0"
+        ],
+        [
+            "6",
+            "11118",
+            "Lockhart Power Co",
+            "SC",
+            "6,202",
+            "0"
+        ]
+    ],
+    "110": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "18997",
+            "The Toledo Edison Co",
+            "OH",
+            "1,079",
+            "0"
+        ],
+        [
+            "8",
+            "13441",
+            "New Hampshire Elec Coop Inc",
+            "NH",
+            "18",
+            "84,240"
+        ],
+        [
+            "5",
+            "13441",
+            "New Hampshire Elec Coop Inc",
+            "NH",
+            "22",
+            "84,109"
+        ],
+        [
+            "8",
+            "13697",
+            "North Central Power Co Inc",
+            "WI",
+            "0",
+            "0"
+        ],
+        [
+            "1",
+            "3093",
+            "Carroll Electric Coop Corp - (AR)",
+            "AR",
+            "0",
+            "82,117"
+        ],
+        [
+            "7",
+            "9837",
+            "Jones-Onslow Elec Member Corp",
+            "NC",
+            "68,676",
+            "0"
+        ],
+        [
+            "11",
+            "14398",
+            "Palmetto Electric Coop Inc",
+            "SC",
+            "0",
+            "70,296"
+        ],
+        [
+            "3",
+            "20187",
+            "Watertown Municipal Utilities",
+            "SD",
+            "12,806",
+            "0"
+        ],
+        [
+            "8",
+            "12692",
+            "Missoula Electric Coop, Inc",
+            "MT",
+            "8,175",
+            "6,399"
+        ],
+        [
+            "5",
+            "19273",
+            "City of Tupelo - (MS)",
+            "MS",
+            "11",
+            "0"
+        ]
+    ],
+    "120": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "19558",
+            "Homer Electric Assn Inc",
+            "AK",
+            "29,432",
+            "82"
+        ],
+        [
+            "8",
+            "13815",
+            "Northwestern Wisconsin Elec Co",
+            "WI",
+            "984",
+            "0"
+        ],
+        [
+            "2",
+            "19156",
+            "Powder River Energy Corp",
+            "MT",
+            "176",
+            "2"
+        ],
+        [
+            "4",
+            "4110",
+            "Commonwealth Edison Co",
+            "IL",
+            "4,555",
+            "2,237,192"
+        ],
+        [
+            "3",
+            "14716",
+            "Pennsylvania Power Co",
+            "PA",
+            "243",
+            "0"
+        ],
+        [
+            "5",
+            "4390",
+            "City of Corona - (CA)",
+            "CA",
+            "1,478",
+            "0"
+        ],
+        [
+            "8",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "785",
+            "0"
+        ],
+        [
+            "11",
+            "15270",
+            "Potomac Electric Power Co",
+            "DC",
+            "2,103",
+            "277,998"
+        ],
+        [
+            "2",
+            "14398",
+            "Palmetto Electric Coop Inc",
+            "SC",
+            "0",
+            "69,609"
+        ],
+        [
+            "12",
+            "5109",
+            "DTE Electric Company",
+            "MI",
+            "0",
+            "2,352,084"
+        ]
+    ],
+    "130": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "UT",
+            "349",
+            "2"
+        ],
+        [
+            "6",
+            "27058",
+            "High West Energy, Inc",
+            "CO",
+            "989",
+            "0"
+        ],
+        [
+            "12",
+            "12647",
+            "ALLETE, Inc.",
+            "MN",
+            "89,508",
+            "52,780"
+        ],
+        [
+            "7",
+            "17633",
+            "Southern Indiana Gas & Elec Co",
+            "IN",
+            "0",
+            "0"
+        ],
+        [
+            "10",
+            "3266",
+            "Central Maine Power Co",
+            "ME",
+            "60",
+            "629,298"
+        ],
+        [
+            "2",
+            "12341",
+            "MidAmerican Energy Co",
+            "SD",
+            "4,762",
+            "0"
+        ],
+        [
+            "4",
+            "17874",
+            "City of St George",
+            "UT",
+            "29,132",
+            "0"
+        ],
+        [
+            "2",
+            "19547",
+            "Hawaiian Electric Co Inc",
+            "HI",
+            "15,021",
+            "0"
+        ],
+        [
+            "2",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "WY",
+            "323",
+            "0"
+        ],
+        [
+            "8",
+            "21538",
+            "Mohave Electric Cooperative, I",
+            "AZ",
+            "0",
+            "37,624"
+        ]
+    ],
+    "140": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "24889",
+            "Brunswick Electric Member Corp",
+            "NC",
+            "0",
+            "89,198"
+        ],
+        [
+            "10",
+            "20169",
+            "Avista Corp",
+            "MT",
+            "31",
+            "0"
+        ],
+        [
+            "5",
+            "16868",
+            "City of Seattle - (WA)",
+            "WA",
+            "0",
+            "0"
+        ],
+        [
+            "9",
+            "689",
+            "Connexus Energy",
+            "MN",
+            "0",
+            "0"
+        ],
+        [
+            "7",
+            "5701",
+            "El Paso Electric Co",
+            "NM",
+            "103,802",
+            "0"
+        ],
+        [
+            "5",
+            "17564",
+            "South Kentucky Rural E C C",
+            "KY",
+            "0",
+            "66,773"
+        ],
+        [
+            "6",
+            "15477",
+            "Public Service Elec & Gas Co",
+            "NJ",
+            "0",
+            "14,468"
+        ],
+        [
+            "11",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "UT",
+            "355",
+            "3"
+        ],
+        [
+            "5",
+            "16286",
+            "Rosebud Electric Coop Inc",
+            "SD",
+            "0",
+            "5,466"
+        ],
+        [
+            "11",
+            "20387",
+            "West Penn Power Company",
+            "PA",
+            "20,002",
+            "2"
+        ]
+    ],
+    "150": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "17694",
+            "Southwest Tennessee E M C",
+            "TN",
+            "39,418",
+            "10,116"
+        ],
+        [
+            "1",
+            "20847",
+            "Wisconsin Electric Power Co",
+            "WI",
+            "1,020,593",
+            "99,158"
+        ],
+        [
+            "2",
+            "5701",
+            "El Paso Electric Co",
+            "TX",
+            "297,371",
+            "0"
+        ],
+        [
+            "5",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,445",
+            "0"
+        ],
+        [
+            "8",
+            "15263",
+            "The Potomac Edison Company",
+            "WV",
+            "7,193",
+            "0"
+        ],
+        [
+            "12",
+            "9216",
+            "Imperial Irrigation District",
+            "CA",
+            "47,378",
+            "58,641"
+        ],
+        [
+            "9",
+            "15257",
+            "Poudre Valley Associated Services, Inc.",
+            "CO",
+            "16",
+            "39,586"
+        ],
+        [
+            "11",
+            "19497",
+            "United Illuminating Co",
+            "CT",
+            "133,603",
+            "211,185"
+        ],
+        [
+            "5",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,551"
+        ],
+        [
+            "9",
+            "9837",
+            "Jones-Onslow Elec Member Corp",
+            "NC",
+            "68,748",
+            "0"
+        ]
+    ],
+    "160": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "3",
+            "11241",
+            "Entergy Louisiana LLC",
+            "LA",
+            "19,829",
+            "12,289"
+        ],
+        [
+            "3",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "NV",
+            "6,946",
+            "10"
+        ],
+        [
+            "10",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "19,543",
+            "743"
+        ],
+        [
+            "2",
+            "5416",
+            "Duke Energy Carolinas, LLC",
+            "NC",
+            "1,430,430",
+            "467,434"
+        ],
+        [
+            "9",
+            "14354",
+            "PacifiCorp",
+            "UT",
+            "857,861",
+            "0"
+        ],
+        [
+            "7",
+            "12866",
+            "Moon Lake Electric Assn Inc",
+            "UT",
+            "16,509",
+            "0"
+        ],
+        [
+            "3",
+            "817",
+            "Arkansas Valley Elec Coop Corp",
+            "OK",
+            "0",
+            "4,557"
+        ],
+        [
+            "7",
+            "2247",
+            "City of Bristol - (TN)",
+            "TN",
+            "0",
+            "15,572"
+        ],
+        [
+            "10",
+            "11208",
+            "Los Angeles Department of Water & Power",
+            "CA",
+            "429,330",
+            "8,073"
+        ],
+        [
+            "11",
+            "22690",
+            "Roosevelt County Elec Coop Inc",
+            "NM",
+            "0",
+            "5,983"
+        ]
+    ],
+    "170": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "5027",
+            "Delmarva Power",
+            "MD",
+            "81",
+            "0"
+        ],
+        [
+            "9",
+            "10000",
+            "Kansas City Power & Light Co",
+            "KS",
+            "164",
+            "232,780"
+        ],
+        [
+            "5",
+            "12293",
+            "City of Memphis - (TN)",
+            "TN",
+            "240",
+            "24,604"
+        ],
+        [
+            "1",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "NM",
+            "0",
+            "10,455"
+        ],
+        [
+            "6",
+            "13511",
+            "New York State Elec & Gas Corp",
+            "NY",
+            "984",
+            "0"
+        ],
+        [
+            "5",
+            "12686",
+            "Mississippi Power Co",
+            "MS",
+            "6,653",
+            "20"
+        ],
+        [
+            "11",
+            "14354",
+            "PacifiCorp",
+            "ID",
+            "32,433",
+            "0"
+        ],
+        [
+            "1",
+            "4247",
+            "Consolidated Water Power Co",
+            "WI",
+            "108",
+            "0"
+        ],
+        [
+            "11",
+            "12796",
+            "Monongahela Power Co",
+            "WV",
+            "34,911",
+            "0"
+        ],
+        [
+            "2",
+            "2247",
+            "City of Bristol - (TN)",
+            "TN",
+            "0",
+            "15,698"
+        ]
+    ],
+    "180": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "3704",
+            "City of Clarksville - (TN)",
+            "TN",
+            "0",
+            "63,576"
+        ],
+        [
+            "2",
+            "17718",
+            "Southwestern Public Service Co",
+            "NM",
+            "880",
+            "13"
+        ],
+        [
+            "8",
+            "5027",
+            "Delmarva Power",
+            "DE",
+            "59",
+            "293,663"
+        ],
+        [
+            "10",
+            "8901",
+            "CenterPoint Energy",
+            "TX",
+            "8,968",
+            "2,403,952"
+        ],
+        [
+            "7",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "SD",
+            "8,586",
+            "0"
+        ],
+        [
+            "6",
+            "49998",
+            "City of Berea Municipal Utility",
+            "KY",
+            "5,195",
+            "0"
+        ],
+        [
+            "2",
+            "11118",
+            "Lockhart Power Co",
+            "SC",
+            "6,207",
+            "0"
+        ],
+        [
+            "6",
+            "3522",
+            "Chugach Electric Assn Inc",
+            "AK",
+            "59,358",
+            "26,222"
+        ],
+        [
+            "12",
+            "3704",
+            "City of Clarksville - (TN)",
+            "TN",
+            "0",
+            "63,745"
+        ],
+        [
+            "10",
+            "4247",
+            "Consolidated Water Power Co",
+            "WI",
+            "107",
+            "0"
+        ]
+    ],
+    "190": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "11249",
+            "Louisville Gas & Electric Co",
+            "KY",
+            "30,158",
+            "1,623"
+        ],
+        [
+            "4",
+            "2548",
+            "City of Burlington Electric - (VT)",
+            "VT",
+            "445",
+            "19,484"
+        ],
+        [
+            "5",
+            "195",
+            "Alabama Power Co",
+            "AL",
+            "0",
+            "1,436,129"
+        ],
+        [
+            "6",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "AL",
+            "326",
+            "0"
+        ],
+        [
+            "3",
+            "6395",
+            "Flathead Electric Coop Inc",
+            "MT",
+            "362",
+            "63,511"
+        ],
+        [
+            "10",
+            "15270",
+            "Potomac Electric Power Co",
+            "DC",
+            "2,103",
+            "277,998"
+        ],
+        [
+            "6",
+            "20455",
+            "Western Massachusetts Electric Company",
+            "MA",
+            "216,413",
+            "0"
+        ],
+        [
+            "7",
+            "18642",
+            "Tennessee Valley Authority",
+            "KY",
+            "0",
+            "66"
+        ],
+        [
+            "12",
+            "22053",
+            "Kentucky Power Co",
+            "KY",
+            "167,435",
+            "3"
+        ],
+        [
+            "12",
+            "9417",
+            "Interstate Power and Light Co",
+            "IA",
+            "6,762",
+            "0"
+        ]
+    ],
+    "200": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "4922",
+            "Dayton Power & Light Co",
+            "OH",
+            "283,797",
+            "0"
+        ],
+        [
+            "3",
+            "3758",
+            "City of Cleveland - (TN)",
+            "TN",
+            "0",
+            "31,185"
+        ],
+        [
+            "1",
+            "13511",
+            "New York State Elec & Gas Corp",
+            "NY",
+            "984",
+            "0"
+        ],
+        [
+            "4",
+            "10906",
+            "City of Lenoir - (TN)",
+            "TN",
+            "59,251",
+            "0"
+        ],
+        [
+            "7",
+            "11118",
+            "Lockhart Power Co",
+            "SC",
+            "6,197",
+            "0"
+        ],
+        [
+            "11",
+            "7353",
+            "Golden Valley Elec Assn Inc",
+            "AK",
+            "45,930",
+            "0"
+        ],
+        [
+            "1",
+            "19497",
+            "United Illuminating Co",
+            "CT",
+            "156,550",
+            "185,919"
+        ],
+        [
+            "4",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "NM",
+            "0",
+            "10,414"
+        ],
+        [
+            "6",
+            "15474",
+            "Public Service Co of Oklahoma",
+            "OK",
+            "6,637",
+            "532,466"
+        ],
+        [
+            "3",
+            "14711",
+            "Pennsylvania Electric Co",
+            "NY",
+            "1",
+            "0"
+        ]
+    ],
+    "210": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "19898",
+            "Volunteer Electric Coop",
+            "TN",
+            "0",
+            "114,399"
+        ],
+        [
+            "3",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "SD",
+            "0",
+            "67,042"
+        ],
+        [
+            "7",
+            "20847",
+            "Wisconsin Electric Power Co",
+            "WI",
+            "1,010,219",
+            "110,358"
+        ],
+        [
+            "8",
+            "1613",
+            "Berkeley Electric Coop Inc",
+            "SC",
+            "26",
+            "91,529"
+        ],
+        [
+            "8",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "7,052",
+            "0"
+        ],
+        [
+            "5",
+            "13734",
+            "Northeast Oklahoma Electric Co",
+            "OK",
+            "0",
+            "38,404"
+        ],
+        [
+            "10",
+            "19273",
+            "City of Tupelo - (MS)",
+            "MS",
+            "11",
+            "0"
+        ],
+        [
+            "11",
+            "17698",
+            "Southwestern Electric Power Co",
+            "AR",
+            "106,584",
+            "0"
+        ],
+        [
+            "11",
+            "3249",
+            "Central Hudson Gas & Elec Corp",
+            "NY",
+            "121,487",
+            "0"
+        ],
+        [
+            "12",
+            "8774",
+            "City of Holyoke - (MA)",
+            "MA",
+            "17,218",
+            "0"
+        ]
+    ],
+    "220": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "6022",
+            "City of Eugene - (OR)",
+            "OR",
+            "0",
+            "0"
+        ],
+        [
+            "2",
+            "9617",
+            "JEA",
+            "FL",
+            "322,382",
+            "137,009"
+        ],
+        [
+            "10",
+            "18642",
+            "Tennessee Valley Authority",
+            "AL",
+            "0",
+            "29"
+        ],
+        [
+            "9",
+            "6022",
+            "City of Eugene - (OR)",
+            "OR",
+            "0",
+            "0"
+        ],
+        [
+            "5",
+            "15472",
+            "Public Service Co of NH",
+            "NH",
+            "515,896",
+            "0"
+        ],
+        [
+            "1",
+            "5399",
+            "Duck River Elec Member Corp",
+            "TN",
+            "0",
+            "3,930"
+        ],
+        [
+            "2",
+            "14062",
+            "Oklahoma Electric Coop Inc",
+            "OK",
+            "0",
+            "53,714"
+        ],
+        [
+            "4",
+            "12698",
+            "KCP&L Greater Missouri Operations Co.",
+            "MO",
+            "456",
+            "122,178"
+        ],
+        [
+            "4",
+            "17008",
+            "Sharyland Utilities LP",
+            "TX",
+            "3,101",
+            "47,573"
+        ],
+        [
+            "2",
+            "7174",
+            "Gibson Electric Members Corp",
+            "TN",
+            "0",
+            "34,534"
+        ]
+    ],
+    "230": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "8245",
+            "City of Hastings - (NE)",
+            "NE",
+            "11,202",
+            "0"
+        ],
+        [
+            "12",
+            "10331",
+            "Kingsport Power Co",
+            "TN",
+            "47,473",
+            "69"
+        ],
+        [
+            "6",
+            "727",
+            "Appalachian Electric Coop",
+            "TN",
+            "0",
+            "45,756"
+        ],
+        [
+            "4",
+            "13694",
+            "North Central Elec Coop, Inc",
+            "ND",
+            "7,814",
+            "0"
+        ],
+        [
+            "9",
+            "10171",
+            "Kentucky Utilities Co",
+            "KY",
+            "27,266",
+            "1,324"
+        ],
+        [
+            "4",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "MN",
+            "1,213,657",
+            "0"
+        ],
+        [
+            "4",
+            "11135",
+            "City of Logan - (UT)",
+            "UT",
+            "0",
+            "19,542"
+        ],
+        [
+            "12",
+            "13214",
+            "The Narragansett Electric Co",
+            "RI",
+            "492,412",
+            "262"
+        ],
+        [
+            "4",
+            "84",
+            "A & N Electric Coop",
+            "MD",
+            "312",
+            "0"
+        ],
+        [
+            "6",
+            "9601",
+            "Jackson Electric Member Corp - (GA)",
+            "GA",
+            "0",
+            "216,139"
+        ]
+    ],
+    "240": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,762"
+        ],
+        [
+            "10",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "943",
+            "0"
+        ],
+        [
+            "9",
+            "3249",
+            "Central Hudson Gas & Elec Corp",
+            "NY",
+            "120,510",
+            "0"
+        ],
+        [
+            "6",
+            "15270",
+            "Potomac Electric Power Co",
+            "DC",
+            "2,103",
+            "277,998"
+        ],
+        [
+            "5",
+            "16655",
+            "City of Santa Clara - (CA)",
+            "CA",
+            "8,958",
+            "0"
+        ],
+        [
+            "9",
+            "599",
+            "Anchorage Municipal Light and Power",
+            "AK",
+            "30,455",
+            "0"
+        ],
+        [
+            "9",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "695"
+        ],
+        [
+            "8",
+            "19791",
+            "Vermont Electric Cooperative, Inc",
+            "VT",
+            "40,954",
+            "0"
+        ],
+        [
+            "3",
+            "12090",
+            "McLean Electric Coop, Inc",
+            "ND",
+            "3,924",
+            "0"
+        ],
+        [
+            "4",
+            "15263",
+            "The Potomac Edison Company",
+            "MD",
+            "9,001",
+            "0"
+        ]
+    ],
+    "250": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "5027",
+            "Delmarva Power",
+            "MD",
+            "80",
+            "0"
+        ],
+        [
+            "3",
+            "6235",
+            "Public Works Comm-City of Fayetteville",
+            "NC",
+            "20,421",
+            "62,361"
+        ],
+        [
+            "11",
+            "3093",
+            "Carroll Electric Coop Corp - (AR)",
+            "MO",
+            "0",
+            "11,903"
+        ],
+        [
+            "11",
+            "11241",
+            "Entergy Louisiana LLC",
+            "LA",
+            "20,335",
+            "12,233"
+        ],
+        [
+            "11",
+            "15473",
+            "Public Service Co of NM",
+            "NM",
+            "31,965",
+            "0"
+        ],
+        [
+            "2",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "SD",
+            "0",
+            "66,953"
+        ],
+        [
+            "6",
+            "13780",
+            "Northern States Power Co",
+            "WI",
+            "246,650",
+            "0"
+        ],
+        [
+            "10",
+            "9187",
+            "City of Idaho Falls - (ID)",
+            "ID",
+            "0",
+            "27,129"
+        ],
+        [
+            "7",
+            "14127",
+            "Omaha Public Power District",
+            "NE",
+            "368,058",
+            "548"
+        ],
+        [
+            "2",
+            "176",
+            "Ajo Improvement Co",
+            "AZ",
+            "995",
+            "0"
+        ]
+    ],
+    "260": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "13337",
+            "Nebraska Public Power District",
+            "NE",
+            "12,326",
+            "45,376"
+        ],
+        [
+            "9",
+            "9777",
+            "Johnson City - (TN)",
+            "TN",
+            "0",
+            "77,484"
+        ],
+        [
+            "6",
+            "6452",
+            "Florida Power & Light Co",
+            "FL",
+            "657",
+            "4,909,673"
+        ],
+        [
+            "9",
+            "15040",
+            "City of Pierre - (SD)",
+            "SD",
+            "0",
+            "7,188"
+        ],
+        [
+            "12",
+            "17543",
+            "South Carolina Public Service Authority",
+            "SC",
+            "121,096",
+            "29"
+        ],
+        [
+            "12",
+            "3046",
+            "Duke Energy Progress - (NC)",
+            "NC",
+            "1,343,999",
+            "0"
+        ],
+        [
+            "12",
+            "12301",
+            "Nodak Electric Coop Inc",
+            "ND",
+            "0",
+            "19,517"
+        ],
+        [
+            "12",
+            "14724",
+            "Pennyrile Rural Electric Coop",
+            "KY",
+            "0",
+            "47,746"
+        ],
+        [
+            "9",
+            "471",
+            "Amana Society Service Co",
+            "IA",
+            "884",
+            "0"
+        ],
+        [
+            "1",
+            "7490",
+            "Grand River Dam Authority",
+            "OK",
+            "0",
+            "174"
+        ]
+    ],
+    "270": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "55937",
+            "Entergy Texas Inc.",
+            "TX",
+            "18,232",
+            "0"
+        ],
+        [
+            "5",
+            "12301",
+            "Nodak Electric Coop Inc",
+            "ND",
+            "0",
+            "19,238"
+        ],
+        [
+            "11",
+            "9336",
+            "Intermountain Rural Elec Assn",
+            "CO",
+            "150,955",
+            "0"
+        ],
+        [
+            "5",
+            "20521",
+            "Wheeling Power Co",
+            "WV",
+            "42,276",
+            "16"
+        ],
+        [
+            "8",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "WY",
+            "480",
+            "0"
+        ],
+        [
+            "12",
+            "9964",
+            "Kenergy Corp",
+            "KY",
+            "21",
+            "56,987"
+        ],
+        [
+            "9",
+            "5701",
+            "El Paso Electric Co",
+            "NM",
+            "104,216",
+            "0"
+        ],
+        [
+            "9",
+            "8245",
+            "City of Hastings - (NE)",
+            "NE",
+            "12,403",
+            "0"
+        ],
+        [
+            "11",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "956",
+            "0"
+        ],
+        [
+            "10",
+            "6204",
+            "City of Farmington - (NM)",
+            "NM",
+            "42,441",
+            "0"
+        ]
+    ],
+    "280": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "11251",
+            "Loup River Public Power Dist",
+            "NE",
+            "19,206",
+            "0"
+        ],
+        [
+            "9",
+            "176",
+            "Ajo Improvement Co",
+            "AZ",
+            "951",
+            "0"
+        ],
+        [
+            "3",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,386",
+            "0"
+        ],
+        [
+            "7",
+            "6604",
+            "City of Fort Collins - (CO)",
+            "CO",
+            "0",
+            "70,265"
+        ],
+        [
+            "4",
+            "56146",
+            "Black Hills/Colorado Elec.Util",
+            "CO",
+            "0",
+            "94,466"
+        ],
+        [
+            "3",
+            "13478",
+            "Entergy New Orleans Inc",
+            "LA",
+            "6,021",
+            "4,279"
+        ],
+        [
+            "4",
+            "6455",
+            "Duke Energy Florida, LLC",
+            "FL",
+            "1,639,725",
+            "76,173"
+        ],
+        [
+            "4",
+            "3989",
+            "City of Colorado Springs - (CO)",
+            "CO",
+            "208,182",
+            "12,475"
+        ],
+        [
+            "8",
+            "6457",
+            "Florida Public Utilities Co",
+            "FL",
+            "10,002",
+            "0"
+        ],
+        [
+            "12",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "AR",
+            "0",
+            "68,708"
+        ]
+    ],
+    "290": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "20332",
+            "Wells Rural Electric Co",
+            "UT",
+            "705",
+            "0"
+        ],
+        [
+            "12",
+            "18642",
+            "Tennessee Valley Authority",
+            "TN",
+            "0",
+            "72"
+        ],
+        [
+            "9",
+            "21538",
+            "Mohave Electric Cooperative, I",
+            "AZ",
+            "0",
+            "37,699"
+        ],
+        [
+            "6",
+            "19791",
+            "Vermont Electric Cooperative, Inc",
+            "VT",
+            "40,889",
+            "0"
+        ],
+        [
+            "7",
+            "13407",
+            "Nevada Power Co",
+            "NV",
+            "94",
+            "911,023"
+        ],
+        [
+            "2",
+            "17698",
+            "Southwestern Electric Power Co",
+            "TX",
+            "175,193",
+            "0"
+        ],
+        [
+            "9",
+            "13337",
+            "Nebraska Public Power District",
+            "NE",
+            "12,481",
+            "45,801"
+        ],
+        [
+            "5",
+            "22053",
+            "Kentucky Power Co",
+            "KY",
+            "168,886",
+            "3"
+        ],
+        [
+            "7",
+            "733",
+            "Appalachian Power Co",
+            "WV",
+            "431,242",
+            "755"
+        ],
+        [
+            "1",
+            "49998",
+            "City of Berea Municipal Utility",
+            "KY",
+            "5,173",
+            "0"
+        ]
+    ],
+    "300": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "19189",
+            "Trico Electric Cooperative Inc",
+            "AZ",
+            "591",
+            "44,096"
+        ],
+        [
+            "4",
+            "13780",
+            "Northern States Power Co",
+            "MI",
+            "9,280",
+            "0"
+        ],
+        [
+            "12",
+            "15040",
+            "City of Pierre - (SD)",
+            "SD",
+            "0",
+            "7,320"
+        ],
+        [
+            "9",
+            "16655",
+            "City of Santa Clara - (CA)",
+            "CA",
+            "8,979",
+            "44"
+        ],
+        [
+            "9",
+            "8774",
+            "City of Holyoke - (MA)",
+            "MA",
+            "17,207",
+            "0"
+        ],
+        [
+            "9",
+            "13998",
+            "Ohio Edison Co",
+            "OH",
+            "3,526",
+            "11"
+        ],
+        [
+            "8",
+            "176",
+            "Ajo Improvement Co",
+            "AZ",
+            "952",
+            "0"
+        ],
+        [
+            "12",
+            "9324",
+            "Indiana Michigan Power Co",
+            "IN",
+            "454,963",
+            "10,120"
+        ],
+        [
+            "9",
+            "15470",
+            "Duke Energy Indiana, LLC",
+            "IN",
+            "823,317",
+            "4,538"
+        ],
+        [
+            "3",
+            "13573",
+            "Niagara Mohawk Power Corp.",
+            "NY",
+            "1,926,872",
+            "3,293"
+        ]
+    ],
+    "310": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "11249",
+            "Louisville Gas & Electric Co",
+            "KY",
+            "31,967",
+            "2,391"
+        ],
+        [
+            "6",
+            "22500",
+            "Westar Energy Inc",
+            "KS",
+            "23,563",
+            "95,730"
+        ],
+        [
+            "3",
+            "18642",
+            "Tennessee Valley Authority",
+            "MS",
+            "0",
+            "20"
+        ],
+        [
+            "5",
+            "11273",
+            "Lower Valley Energy Inc",
+            "WY",
+            "0",
+            "25,298"
+        ],
+        [
+            "2",
+            "15466",
+            "Public Service Co of Colorado",
+            "CO",
+            "1,134,147",
+            "15,058"
+        ],
+        [
+            "11",
+            "6452",
+            "Florida Power & Light Co",
+            "FL",
+            "635",
+            "4,936,975"
+        ],
+        [
+            "3",
+            "9094",
+            "City of Huntsville - (AL)",
+            "AL",
+            "0",
+            "16"
+        ],
+        [
+            "2",
+            "20130",
+            "Warren Rural Elec Coop Corp",
+            "KY",
+            "61,845",
+            "12"
+        ],
+        [
+            "12",
+            "15466",
+            "Public Service Co of Colorado",
+            "CO",
+            "1,112,971",
+            "15,883"
+        ],
+        [
+            "7",
+            "20521",
+            "Wheeling Power Co",
+            "WV",
+            "41,642",
+            "17"
+        ]
+    ],
+    "320": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "55937",
+            "Entergy Texas Inc.",
+            "TX",
+            "17,021",
+            "0"
+        ],
+        [
+            "12",
+            "10171",
+            "Kentucky Utilities Co",
+            "TN",
+            "4",
+            "0"
+        ],
+        [
+            "7",
+            "4390",
+            "City of Corona - (CA)",
+            "CA",
+            "1,503",
+            "0"
+        ],
+        [
+            "9",
+            "16609",
+            "San Diego Gas & Electric Co",
+            "CA",
+            "137",
+            "1,407,256"
+        ],
+        [
+            "12",
+            "17698",
+            "Southwestern Electric Power Co",
+            "TX",
+            "176,174",
+            "0"
+        ],
+        [
+            "1",
+            "24211",
+            "Tucson Electric Power Co",
+            "AZ",
+            "422,095",
+            "53"
+        ],
+        [
+            "8",
+            "17470",
+            "PUD 1 of Snohomish County",
+            "WA",
+            "4,139",
+            "0"
+        ],
+        [
+            "2",
+            "7222",
+            "City of Gillette - (WY)",
+            "WY",
+            "14,847",
+            "0"
+        ],
+        [
+            "12",
+            "11479",
+            "Madison Gas & Electric Co",
+            "WI",
+            "143,026",
+            "7,284"
+        ],
+        [
+            "12",
+            "6779",
+            "City of Fremont - (NE)",
+            "NE",
+            "15,070",
+            "0"
+        ]
+    ],
+    "330": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "10906",
+            "City of Lenoir - (TN)",
+            "TN",
+            "58,605",
+            "0"
+        ],
+        [
+            "12",
+            "15472",
+            "Public Service Co of NH",
+            "NH",
+            "516,815",
+            "0"
+        ],
+        [
+            "12",
+            "20334",
+            "Wellsborough Electric Co",
+            "PA",
+            "948",
+            "4,855"
+        ],
+        [
+            "1",
+            "9777",
+            "Johnson City - (TN)",
+            "TN",
+            "0",
+            "77,255"
+        ],
+        [
+            "5",
+            "11171",
+            "Long Island Power Authority",
+            "NY",
+            "19,119",
+            "8,886"
+        ],
+        [
+            "1",
+            "20860",
+            "Wisconsin Public Service Corp",
+            "MI",
+            "9,196",
+            "0"
+        ],
+        [
+            "2",
+            "24211",
+            "Tucson Electric Power Co",
+            "AZ",
+            "422,366",
+            "53"
+        ],
+        [
+            "12",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "SD",
+            "8,565",
+            "0"
+        ],
+        [
+            "6",
+            "13697",
+            "North Central Power Co Inc",
+            "WI",
+            "0",
+            "0"
+        ],
+        [
+            "7",
+            "84",
+            "A & N Electric Coop",
+            "VA",
+            "33,925",
+            "0"
+        ]
+    ],
+    "340": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "9837",
+            "Jones-Onslow Elec Member Corp",
+            "NC",
+            "68,530",
+            "0"
+        ],
+        [
+            "1",
+            "3287",
+            "Central Valley Elec Coop, Inc",
+            "NM",
+            "342",
+            "14,758"
+        ],
+        [
+            "9",
+            "16534",
+            "Sacramento Municipal Util Dist",
+            "CA",
+            "0",
+            "619,923"
+        ],
+        [
+            "7",
+            "13214",
+            "The Narragansett Electric Co",
+            "RI",
+            "489,475",
+            "261"
+        ],
+        [
+            "9",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "19,440",
+            "933"
+        ],
+        [
+            "3",
+            "25866",
+            "Ak-Chin Electric Utility Authority",
+            "AZ",
+            "449",
+            "0"
+        ],
+        [
+            "6",
+            "12919",
+            "Morenci Water and Electric",
+            "AZ",
+            "2,598",
+            "0"
+        ],
+        [
+            "7",
+            "10005",
+            "Kansas Gas & Electric Co",
+            "KS",
+            "5,454",
+            "255,118"
+        ],
+        [
+            "3",
+            "4922",
+            "Dayton Power & Light Co",
+            "OH",
+            "278,002",
+            "0"
+        ],
+        [
+            "8",
+            "7353",
+            "Golden Valley Elec Assn Inc",
+            "AK",
+            "46,043",
+            "0"
+        ]
+    ],
+    "350": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "6641",
+            "4-County Electric Power Assn",
+            "MS",
+            "0",
+            "47,046"
+        ],
+        [
+            "6",
+            "17612",
+            "Bear Valley Electric Service",
+            "CA",
+            "23,869",
+            "0"
+        ],
+        [
+            "5",
+            "9216",
+            "Imperial Irrigation District",
+            "CA",
+            "50,542",
+            "46,173"
+        ],
+        [
+            "7",
+            "12470",
+            "Middle Tennessee E M C",
+            "TN",
+            "0",
+            "180,155"
+        ],
+        [
+            "4",
+            "15470",
+            "Duke Energy Indiana, LLC",
+            "IN",
+            "827,054",
+            "3,439"
+        ],
+        [
+            "11",
+            "17166",
+            "Sierra Pacific Power Co",
+            "NV",
+            "102",
+            "342,088"
+        ],
+        [
+            "5",
+            "9191",
+            "Idaho Power Co",
+            "ID",
+            "1,003",
+            "506,348"
+        ],
+        [
+            "12",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "SD",
+            "74,476",
+            "0"
+        ],
+        [
+            "12",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "MS",
+            "73,054",
+            "0"
+        ],
+        [
+            "5",
+            "17539",
+            "South Carolina Electric&Gas Company",
+            "SC",
+            "689,678",
+            "10,369"
+        ]
+    ],
+    "360": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "ND",
+            "92,898",
+            "0"
+        ],
+        [
+            "3",
+            "19896",
+            "City of Volga - (SD)",
+            "SD",
+            "1,044",
+            "0"
+        ],
+        [
+            "4",
+            "11273",
+            "Lower Valley Energy Inc",
+            "ID",
+            "0",
+            "1,684"
+        ],
+        [
+            "9",
+            "10596",
+            "City of Lake Crystal - (MN)",
+            "MN",
+            "1,198",
+            "0"
+        ],
+        [
+            "10",
+            "10171",
+            "Kentucky Utilities Co",
+            "KY",
+            "27,301",
+            "1,370"
+        ],
+        [
+            "2",
+            "733",
+            "Appalachian Power Co",
+            "WV",
+            "433,554",
+            "554"
+        ],
+        [
+            "10",
+            "13214",
+            "The Narragansett Electric Co",
+            "RI",
+            "490,506",
+            "260"
+        ],
+        [
+            "7",
+            "27058",
+            "High West Energy, Inc",
+            "WY",
+            "5,915",
+            "0"
+        ],
+        [
+            "9",
+            "3236",
+            "Central Electric Coop, Inc - (SD)",
+            "SD",
+            "7,200",
+            "0"
+        ],
+        [
+            "6",
+            "12796",
+            "Monongahela Power Co",
+            "WV",
+            "34,985",
+            "0"
+        ]
+    ],
+    "370": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "15748",
+            "Town of Reading - (MA)",
+            "MA",
+            "29,811",
+            "0"
+        ],
+        [
+            "11",
+            "13478",
+            "Entergy New Orleans Inc",
+            "LA",
+            "6,048",
+            "4,175"
+        ],
+        [
+            "3",
+            "12647",
+            "ALLETE, Inc.",
+            "MN",
+            "98,217",
+            "44,233"
+        ],
+        [
+            "1",
+            "9187",
+            "City of Idaho Falls - (ID)",
+            "ID",
+            "0",
+            "27,196"
+        ],
+        [
+            "8",
+            "14537",
+            "Pascoag Utility District",
+            "RI",
+            "4,595",
+            "0"
+        ],
+        [
+            "3",
+            "14711",
+            "Pennsylvania Electric Co",
+            "PA",
+            "3,078",
+            "0"
+        ],
+        [
+            "10",
+            "13519",
+            "City of Newark - (DE)",
+            "DE",
+            "0",
+            "12,718"
+        ],
+        [
+            "4",
+            "10000",
+            "Kansas City Power & Light Co",
+            "MO",
+            "751",
+            "275,234"
+        ],
+        [
+            "7",
+            "727",
+            "Appalachian Electric Coop",
+            "TN",
+            "0",
+            "45,782"
+        ],
+        [
+            "8",
+            "11204",
+            "Los Alamos County",
+            "NM",
+            "100",
+            "1,684"
+        ]
+    ],
+    "380": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "13756",
+            "Northern Indiana Pub Serv Co",
+            "IN",
+            "14,368",
+            "0"
+        ],
+        [
+            "4",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "618",
+            "0"
+        ],
+        [
+            "11",
+            "20332",
+            "Wells Rural Electric Co",
+            "NV",
+            "5,413",
+            "0"
+        ],
+        [
+            "12",
+            "15470",
+            "Duke Energy Indiana, LLC",
+            "IN",
+            "794,879",
+            "28,991"
+        ],
+        [
+            "3",
+            "19273",
+            "City of Tupelo - (MS)",
+            "MS",
+            "11",
+            "0"
+        ],
+        [
+            "7",
+            "8901",
+            "CenterPoint Energy",
+            "TX",
+            "8,825",
+            "2,391,157"
+        ],
+        [
+            "1",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "6,176",
+            "0"
+        ],
+        [
+            "12",
+            "14716",
+            "Pennsylvania Power Co",
+            "PA",
+            "251",
+            "0"
+        ],
+        [
+            "3",
+            "19882",
+            "Virginia Tech Electric Service",
+            "VA",
+            "5,687",
+            "71"
+        ],
+        [
+            "7",
+            "12341",
+            "MidAmerican Energy Co",
+            "IA",
+            "665,588",
+            "0"
+        ]
+    ],
+    "390": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "17612",
+            "Bear Valley Electric Service",
+            "CA",
+            "23,784",
+            "0"
+        ],
+        [
+            "10",
+            "20130",
+            "Warren Rural Elec Coop Corp",
+            "KY",
+            "62,726",
+            "13"
+        ],
+        [
+            "6",
+            "3704",
+            "City of Clarksville - (TN)",
+            "TN",
+            "0",
+            "62,938"
+        ],
+        [
+            "12",
+            "8287",
+            "Hawaii Electric Light Co Inc",
+            "HI",
+            "15,023",
+            "0"
+        ],
+        [
+            "3",
+            "17543",
+            "South Carolina Public Service Authority",
+            "SC",
+            "115,544",
+            "29"
+        ],
+        [
+            "10",
+            "21538",
+            "Mohave Electric Cooperative, I",
+            "AZ",
+            "0",
+            "37,838"
+        ],
+        [
+            "5",
+            "84",
+            "A & N Electric Coop",
+            "MD",
+            "310",
+            "0"
+        ],
+        [
+            "6",
+            "19547",
+            "Hawaiian Electric Co Inc",
+            "HI",
+            "15,437",
+            "0"
+        ],
+        [
+            "2",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "SD",
+            "85,333",
+            "0"
+        ],
+        [
+            "11",
+            "11804",
+            "Massachusetts Electric Co",
+            "MA",
+            "1,252,906",
+            "15,115"
+        ]
+    ],
+    "400": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "19499",
+            "United Power, Inc",
+            "CO",
+            "105",
+            "33,515"
+        ],
+        [
+            "11",
+            "22053",
+            "Kentucky Power Co",
+            "KY",
+            "167,969",
+            "3"
+        ],
+        [
+            "10",
+            "11824",
+            "Matanuska Electric Assn Inc",
+            "AK",
+            "28,809",
+            "30,808"
+        ],
+        [
+            "2",
+            "12647",
+            "ALLETE, Inc.",
+            "MN",
+            "99,820",
+            "43,901"
+        ],
+        [
+            "8",
+            "5399",
+            "Duck River Elec Member Corp",
+            "TN",
+            "0",
+            "5,502"
+        ],
+        [
+            "2",
+            "17539",
+            "South Carolina Electric&Gas Company",
+            "SC",
+            "686,996",
+            "9,967"
+        ],
+        [
+            "2",
+            "19558",
+            "Homer Electric Assn Inc",
+            "AK",
+            "29,569",
+            "82"
+        ],
+        [
+            "2",
+            "15263",
+            "The Potomac Edison Company",
+            "WV",
+            "7,013",
+            "0"
+        ],
+        [
+            "7",
+            "4356",
+            "Colorado River Comm of Nevada",
+            "NV",
+            "0",
+            "23"
+        ],
+        [
+            "2",
+            "19898",
+            "Volunteer Electric Coop",
+            "TN",
+            "0",
+            "113,408"
+        ]
+    ],
+    "410": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "6204",
+            "City of Farmington - (NM)",
+            "NM",
+            "42,494",
+            "0"
+        ],
+        [
+            "12",
+            "15477",
+            "Public Service Elec & Gas Co",
+            "NJ",
+            "0",
+            "14,676"
+        ],
+        [
+            "9",
+            "13478",
+            "Entergy New Orleans Inc",
+            "LA",
+            "6,049",
+            "4,222"
+        ],
+        [
+            "8",
+            "18997",
+            "The Toledo Edison Co",
+            "OH",
+            "1,084",
+            "0"
+        ],
+        [
+            "5",
+            "11208",
+            "Los Angeles Department of Water & Power",
+            "CA",
+            "413,705",
+            "8,278"
+        ],
+        [
+            "9",
+            "3660",
+            "PUD No 1 of Clark County - (WA)",
+            "WA",
+            "193,528",
+            "0"
+        ],
+        [
+            "10",
+            "17008",
+            "Sharyland Utilities LP",
+            "TX",
+            "3,143",
+            "50,992"
+        ],
+        [
+            "12",
+            "12685",
+            "Entergy Mississippi Inc",
+            "MS",
+            "6,818",
+            "79"
+        ],
+        [
+            "3",
+            "3916",
+            "Cobb Electric Membership Corp",
+            "GA",
+            "0",
+            "194,124"
+        ],
+        [
+            "12",
+            "22690",
+            "Roosevelt County Elec Coop Inc",
+            "NM",
+            "0",
+            "5,956"
+        ]
+    ],
+    "420": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,701"
+        ],
+        [
+            "4",
+            "17718",
+            "Southwestern Public Service Co",
+            "NM",
+            "899",
+            "15"
+        ],
+        [
+            "6",
+            "17564",
+            "South Kentucky Rural E C C",
+            "KY",
+            "0",
+            "66,808"
+        ],
+        [
+            "4",
+            "15257",
+            "Poudre Valley Associated Services, Inc.",
+            "CO",
+            "44",
+            "38,892"
+        ],
+        [
+            "3",
+            "19578",
+            "Upper Peninsula Power Company",
+            "MI",
+            "43",
+            "0"
+        ],
+        [
+            "3",
+            "13519",
+            "City of Newark - (DE)",
+            "DE",
+            "0",
+            "12,786"
+        ],
+        [
+            "6",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "MN",
+            "1,269,151",
+            "0"
+        ],
+        [
+            "10",
+            "814",
+            "Entergy Arkansas Inc",
+            "TN",
+            "0",
+            "0"
+        ],
+        [
+            "6",
+            "56697",
+            "Ameren Illinois Company",
+            "IL",
+            "661,677",
+            "311,425"
+        ],
+        [
+            "3",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "ND",
+            "94,179",
+            "0"
+        ]
+    ],
+    "430": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "WY",
+            "15,645",
+            "0"
+        ],
+        [
+            "7",
+            "17008",
+            "Sharyland Utilities LP",
+            "TX",
+            "3,112",
+            "49,967"
+        ],
+        [
+            "7",
+            "18642",
+            "Tennessee Valley Authority",
+            "MS",
+            "0",
+            "20"
+        ],
+        [
+            "3",
+            "12539",
+            "Midwest Electric Member Corp",
+            "NE",
+            "6,450",
+            "0"
+        ],
+        [
+            "12",
+            "10066",
+            "K C Electric Association",
+            "CO",
+            "0",
+            "6,518"
+        ],
+        [
+            "8",
+            "17066",
+            "Shenandoah Valley Elec Coop",
+            "VA",
+            "92,454",
+            "0"
+        ],
+        [
+            "9",
+            "18260",
+            "Surprise Valley Electrification",
+            "CA",
+            "0",
+            "0"
+        ],
+        [
+            "3",
+            "9216",
+            "Imperial Irrigation District",
+            "CA",
+            "50,853",
+            "40,814"
+        ],
+        [
+            "2",
+            "4254",
+            "Consumers Energy Co",
+            "MI",
+            "0",
+            "858,877"
+        ],
+        [
+            "8",
+            "15466",
+            "Public Service Co of Colorado",
+            "CO",
+            "1,204,606",
+            "17,201"
+        ]
+    ],
+    "440": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "NM",
+            "0",
+            "10,385"
+        ],
+        [
+            "6",
+            "11475",
+            "City of Madison - (SD)",
+            "SD",
+            "0",
+            "0"
+        ],
+        [
+            "3",
+            "16609",
+            "San Diego Gas & Electric Co",
+            "CA",
+            "174",
+            "1,412,777"
+        ],
+        [
+            "7",
+            "14534",
+            "City of Pasadena - (CA)",
+            "CA",
+            "63,262",
+            "0"
+        ],
+        [
+            "5",
+            "14127",
+            "Omaha Public Power District",
+            "NE",
+            "368,118",
+            "560"
+        ],
+        [
+            "7",
+            "15045",
+            "Pike County Light & Power Co",
+            "PA",
+            "3,388",
+            "0"
+        ],
+        [
+            "6",
+            "12390",
+            "Metropolitan Edison Co",
+            "PA",
+            "4,365",
+            "1"
+        ],
+        [
+            "5",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "6,793",
+            "0"
+        ],
+        [
+            "12",
+            "10596",
+            "City of Lake Crystal - (MN)",
+            "MN",
+            "1,200",
+            "0"
+        ],
+        [
+            "8",
+            "3249",
+            "Central Hudson Gas & Elec Corp",
+            "NY",
+            "120,142",
+            "0"
+        ]
+    ],
+    "450": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "3265",
+            "Cleco Power LLC",
+            "LA",
+            "0",
+            "283,935"
+        ],
+        [
+            "11",
+            "1179",
+            "Emera Maine",
+            "ME",
+            "0",
+            "120,556"
+        ],
+        [
+            "2",
+            "17066",
+            "Shenandoah Valley Elec Coop",
+            "VA",
+            "91,739",
+            "0"
+        ],
+        [
+            "10",
+            "3758",
+            "City of Cleveland - (TN)",
+            "TN",
+            "0",
+            "31,120"
+        ],
+        [
+            "4",
+            "19896",
+            "City of Volga - (SD)",
+            "SD",
+            "1,043",
+            "0"
+        ],
+        [
+            "6",
+            "13519",
+            "City of Newark - (DE)",
+            "DE",
+            "0",
+            "12,740"
+        ],
+        [
+            "9",
+            "9273",
+            "Indianapolis Power & Light Co",
+            "IN",
+            "479,331",
+            "46,470"
+        ],
+        [
+            "9",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "WY",
+            "480",
+            "0"
+        ],
+        [
+            "2",
+            "9324",
+            "Indiana Michigan Power Co",
+            "MI",
+            "128,744",
+            "0"
+        ],
+        [
+            "12",
+            "5335",
+            "City of Dover - (DE)",
+            "DE",
+            "23,645",
+            "0"
+        ]
+    ],
+    "460": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "3",
+            "55959",
+            "Roughrider Electric Cooperativ",
+            "ND",
+            "14,555",
+            "0"
+        ],
+        [
+            "2",
+            "12087",
+            "McKenzie Electric Coop Inc",
+            "ND",
+            "12,068",
+            "0"
+        ],
+        [
+            "10",
+            "14328",
+            "Pacific Gas & Electric Co",
+            "CA",
+            "0",
+            "5,183,622"
+        ],
+        [
+            "1",
+            "17698",
+            "Southwestern Electric Power Co",
+            "LA",
+            "120,981",
+            "0"
+        ],
+        [
+            "11",
+            "25866",
+            "Ak-Chin Electric Utility Authority",
+            "AZ",
+            "454",
+            "0"
+        ],
+        [
+            "7",
+            "49998",
+            "City of Berea Municipal Utility",
+            "KY",
+            "5,199",
+            "0"
+        ],
+        [
+            "7",
+            "12341",
+            "MidAmerican Energy Co",
+            "SD",
+            "4,797",
+            "0"
+        ],
+        [
+            "12",
+            "20847",
+            "Wisconsin Electric Power Co",
+            "WI",
+            "951,749",
+            "186,853"
+        ],
+        [
+            "9",
+            "13337",
+            "Nebraska Public Power District",
+            "SD",
+            "0",
+            "1,255"
+        ],
+        [
+            "12",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "AZ",
+            "0",
+            "28,727"
+        ]
+    ],
+    "470": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "4254",
+            "Consumers Energy Co",
+            "MI",
+            "0",
+            "917,485"
+        ],
+        [
+            "6",
+            "19156",
+            "Powder River Energy Corp",
+            "WY",
+            "26,663",
+            "21"
+        ],
+        [
+            "6",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "749",
+            "0"
+        ],
+        [
+            "3",
+            "5109",
+            "DTE Electric Company",
+            "MI",
+            "0",
+            "2,250,797"
+        ],
+        [
+            "12",
+            "733",
+            "Appalachian Power Co",
+            "WV",
+            "431,660",
+            "943"
+        ],
+        [
+            "12",
+            "3408",
+            "City of Chattanooga - (TN)",
+            "TN",
+            "0",
+            "166,631"
+        ],
+        [
+            "5",
+            "10171",
+            "Kentucky Utilities Co",
+            "VA",
+            "2,431",
+            "0"
+        ],
+        [
+            "3",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "ID",
+            "0",
+            "25,284"
+        ],
+        [
+            "8",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "MN",
+            "1,271,769",
+            "0"
+        ],
+        [
+            "2",
+            "44372",
+            "Oncor Electric Delivery Company LLC",
+            "TX",
+            "0",
+            "3,376,629"
+        ]
+    ],
+    "480": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "10906",
+            "City of Lenoir - (TN)",
+            "TN",
+            "58,855",
+            "0"
+        ],
+        [
+            "7",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "NV",
+            "7,179",
+            "10"
+        ],
+        [
+            "6",
+            "6395",
+            "Flathead Electric Coop Inc",
+            "MT",
+            "360",
+            "63,753"
+        ],
+        [
+            "8",
+            "15473",
+            "Public Service Co of NM",
+            "NM",
+            "31,967",
+            "0"
+        ],
+        [
+            "7",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "697"
+        ],
+        [
+            "2",
+            "16572",
+            "Salt River Project",
+            "AZ",
+            "3",
+            "888,469"
+        ],
+        [
+            "6",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,549"
+        ],
+        [
+            "6",
+            "4717",
+            "Dakota Valley Elec Coop Inc",
+            "ND",
+            "6,511",
+            "0"
+        ],
+        [
+            "1",
+            "5109",
+            "DTE Electric Company",
+            "MI",
+            "0",
+            "2,076,486"
+        ],
+        [
+            "9",
+            "14398",
+            "Palmetto Electric Coop Inc",
+            "SC",
+            "0",
+            "70,210"
+        ]
+    ],
+    "490": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "11249",
+            "Louisville Gas & Electric Co",
+            "KY",
+            "31,793",
+            "1,950"
+        ],
+        [
+            "11",
+            "19578",
+            "Upper Peninsula Power Company",
+            "MI",
+            "43",
+            "0"
+        ],
+        [
+            "7",
+            "17267",
+            "Sioux Valley SW Elec Coop",
+            "MN",
+            "0",
+            "3,796"
+        ],
+        [
+            "4",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "WY",
+            "0",
+            "2,661"
+        ],
+        [
+            "10",
+            "12692",
+            "Missoula Electric Coop, Inc",
+            "MT",
+            "7,390",
+            "7,166"
+        ],
+        [
+            "9",
+            "3828",
+            "Cloverland Electric Co-op",
+            "MI",
+            "42,406",
+            "0"
+        ],
+        [
+            "6",
+            "40051",
+            "Texas-New Mexico Power Co",
+            "TX",
+            "0",
+            "234,420"
+        ],
+        [
+            "5",
+            "12692",
+            "Missoula Electric Coop, Inc",
+            "MT",
+            "10,004",
+            "4,462"
+        ],
+        [
+            "8",
+            "15470",
+            "Duke Energy Indiana, LLC",
+            "IN",
+            "828,646",
+            "3,643"
+        ],
+        [
+            "10",
+            "195",
+            "Alabama Power Co",
+            "AL",
+            "0",
+            "1,439,205"
+        ]
+    ],
+    "500": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "12686",
+            "Mississippi Power Co",
+            "MS",
+            "6,637",
+            "20"
+        ],
+        [
+            "8",
+            "12745",
+            "Modesto Irrigation District",
+            "CA",
+            "0",
+            "121,447"
+        ],
+        [
+            "8",
+            "7222",
+            "City of Gillette - (WY)",
+            "WY",
+            "14,721",
+            "0"
+        ],
+        [
+            "10",
+            "1738",
+            "Bonneville Power Administration",
+            "WA",
+            "66",
+            "0"
+        ],
+        [
+            "7",
+            "13196",
+            "Northern Plains Electric Coop",
+            "ND",
+            "18,199",
+            "0"
+        ],
+        [
+            "4",
+            "19603",
+            "USBIA-Mission Valley Power",
+            "MT",
+            "19,723",
+            "0"
+        ],
+        [
+            "6",
+            "10421",
+            "Knoxville Utilities Board",
+            "TN",
+            "6,990",
+            "6,756"
+        ],
+        [
+            "6",
+            "19497",
+            "United Illuminating Co",
+            "CT",
+            "144,419",
+            "198,931"
+        ],
+        [
+            "8",
+            "3236",
+            "Central Electric Coop, Inc - (SD)",
+            "SD",
+            "7,201",
+            "0"
+        ],
+        [
+            "4",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "WY",
+            "15,564",
+            "0"
+        ]
+    ],
+    "510": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "19446",
+            "Duke Energy Kentucky",
+            "KY",
+            "103,350",
+            "39,615"
+        ],
+        [
+            "6",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "696"
+        ],
+        [
+            "11",
+            "14328",
+            "Pacific Gas & Electric Co",
+            "CA",
+            "0",
+            "5,190,111"
+        ],
+        [
+            "6",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "19,143",
+            "1,019"
+        ],
+        [
+            "11",
+            "14354",
+            "PacifiCorp",
+            "UT",
+            "862,860",
+            "0"
+        ],
+        [
+            "1",
+            "3249",
+            "Central Hudson Gas & Elec Corp",
+            "NY",
+            "116,210",
+            "0"
+        ],
+        [
+            "4",
+            "5399",
+            "Duck River Elec Member Corp",
+            "TN",
+            "0",
+            "4,652"
+        ],
+        [
+            "1",
+            "18260",
+            "Surprise Valley Electrification",
+            "CA",
+            "0",
+            "0"
+        ],
+        [
+            "3",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "MS",
+            "72,643",
+            "0"
+        ],
+        [
+            "8",
+            "24590",
+            "Unitil Energy Systems",
+            "NH",
+            "200",
+            "75,990"
+        ]
+    ],
+    "520": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "84",
+            "A & N Electric Coop",
+            "MD",
+            "309",
+            "0"
+        ],
+        [
+            "1",
+            "5574",
+            "East Central Energy",
+            "WI",
+            "5,106",
+            "0"
+        ],
+        [
+            "5",
+            "219",
+            "Alaska Power and Telephone Co",
+            "AK",
+            "7,916",
+            "0"
+        ],
+        [
+            "1",
+            "11118",
+            "Lockhart Power Co",
+            "SC",
+            "6,238",
+            "0"
+        ],
+        [
+            "7",
+            "6457",
+            "Florida Public Utilities Co",
+            "FL",
+            "9,946",
+            "0"
+        ],
+        [
+            "1",
+            "17267",
+            "Sioux Valley SW Elec Coop",
+            "SD",
+            "1",
+            "20,206"
+        ],
+        [
+            "12",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,559"
+        ],
+        [
+            "10",
+            "20860",
+            "Wisconsin Public Service Corp",
+            "MI",
+            "9,218",
+            "0"
+        ],
+        [
+            "5",
+            "12090",
+            "McLean Electric Coop, Inc",
+            "ND",
+            "3,953",
+            "0"
+        ],
+        [
+            "7",
+            "13664",
+            "Norris Public Power District",
+            "NE",
+            "1,474",
+            "3,009"
+        ]
+    ],
+    "530": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "12745",
+            "Modesto Irrigation District",
+            "CA",
+            "0",
+            "121,234"
+        ],
+        [
+            "11",
+            "2010",
+            "City of Bountiful",
+            "UT",
+            "16,892",
+            "0"
+        ],
+        [
+            "11",
+            "54913",
+            "NSTAR Electric Company",
+            "MA",
+            "1,218,629",
+            "0"
+        ],
+        [
+            "8",
+            "3597",
+            "Citizens Electric Co - (PA)",
+            "PA",
+            "0",
+            "6,952"
+        ],
+        [
+            "11",
+            "10000",
+            "Kansas City Power & Light Co",
+            "MO",
+            "437",
+            "278,070"
+        ],
+        [
+            "12",
+            "3287",
+            "Central Valley Elec Coop, Inc",
+            "NM",
+            "60",
+            "15,326"
+        ],
+        [
+            "5",
+            "15257",
+            "Poudre Valley Associated Services, Inc.",
+            "CO",
+            "30",
+            "38,798"
+        ],
+        [
+            "12",
+            "3812",
+            "City of Clinton - (TN)",
+            "TN",
+            "0",
+            "29,812"
+        ],
+        [
+            "2",
+            "17470",
+            "PUD 1 of Snohomish County",
+            "WA",
+            "4,124",
+            "0"
+        ],
+        [
+            "5",
+            "3266",
+            "Central Maine Power Co",
+            "ME",
+            "60",
+            "627,170"
+        ]
+    ],
+    "540": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "17845",
+            "City of Springville - (UT)",
+            "UT",
+            "11,001",
+            "0"
+        ],
+        [
+            "11",
+            "11208",
+            "Los Angeles Department of Water & Power",
+            "CA",
+            "432,027",
+            "8,032"
+        ],
+        [
+            "10",
+            "18260",
+            "Surprise Valley Electrification",
+            "OR",
+            "0",
+            "0"
+        ],
+        [
+            "10",
+            "3704",
+            "City of Clarksville - (TN)",
+            "TN",
+            "0",
+            "63,474"
+        ],
+        [
+            "10",
+            "18642",
+            "Tennessee Valley Authority",
+            "NC",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "14062",
+            "Oklahoma Electric Coop Inc",
+            "OK",
+            "0",
+            "53,945"
+        ],
+        [
+            "2",
+            "19896",
+            "City of Volga - (SD)",
+            "SD",
+            "1,043",
+            "0"
+        ],
+        [
+            "7",
+            "9739",
+            "Joe Wheeler Elec Member Corp",
+            "AL",
+            "0",
+            "42,993"
+        ],
+        [
+            "4",
+            "3265",
+            "Cleco Power LLC",
+            "LA",
+            "0",
+            "283,795"
+        ],
+        [
+            "7",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "AR",
+            "0",
+            "68,576"
+        ]
+    ],
+    "550": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "5574",
+            "East Central Energy",
+            "MN",
+            "54,023",
+            "0"
+        ],
+        [
+            "11",
+            "13196",
+            "Northern Plains Electric Coop",
+            "ND",
+            "18,268",
+            "0"
+        ],
+        [
+            "1",
+            "11204",
+            "Los Alamos County",
+            "NM",
+            "100",
+            "1,450"
+        ],
+        [
+            "5",
+            "12866",
+            "Moon Lake Electric Assn Inc",
+            "UT",
+            "16,499",
+            "0"
+        ],
+        [
+            "3",
+            "20334",
+            "Wellsborough Electric Co",
+            "PA",
+            "1,002",
+            "4,788"
+        ],
+        [
+            "3",
+            "4390",
+            "City of Corona - (CA)",
+            "CA",
+            "1,480",
+            "0"
+        ],
+        [
+            "11",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "NV",
+            "0",
+            "1,763"
+        ],
+        [
+            "12",
+            "18336",
+            "Superior Water and Light Co",
+            "WI",
+            "1,530",
+            "0"
+        ],
+        [
+            "9",
+            "15270",
+            "Potomac Electric Power Co",
+            "DC",
+            "2,103",
+            "277,998"
+        ],
+        [
+            "8",
+            "26510",
+            "Liberty Utilities (Granite State Electric) Corp",
+            "NH",
+            "41,042",
+            "7"
+        ]
+    ],
+    "560": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "16603",
+            "San Luis Valley R E C, Inc",
+            "CO",
+            "256",
+            "11,418"
+        ],
+        [
+            "7",
+            "14232",
+            "Otter Tail Power Co",
+            "MN",
+            "41",
+            "0"
+        ],
+        [
+            "6",
+            "5027",
+            "Delmarva Power",
+            "DE",
+            "61",
+            "293,663"
+        ],
+        [
+            "4",
+            "17633",
+            "Southern Indiana Gas & Elec Co",
+            "IN",
+            "0",
+            "0"
+        ],
+        [
+            "11",
+            "19728",
+            "UNS Electric, Inc",
+            "AZ",
+            "94,014",
+            "121"
+        ],
+        [
+            "9",
+            "24590",
+            "Unitil Energy Systems",
+            "NH",
+            "200",
+            "75,937"
+        ],
+        [
+            "8",
+            "13214",
+            "The Narragansett Electric Co",
+            "RI",
+            "489,880",
+            "256"
+        ],
+        [
+            "6",
+            "16603",
+            "San Luis Valley R E C, Inc",
+            "CO",
+            "2,191",
+            "8,313"
+        ],
+        [
+            "2",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,586"
+        ],
+        [
+            "9",
+            "13214",
+            "The Narragansett Electric Co",
+            "RI",
+            "490,139",
+            "262"
+        ]
+    ],
+    "570": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "3989",
+            "City of Colorado Springs - (CO)",
+            "CO",
+            "208,634",
+            "12,607"
+        ],
+        [
+            "7",
+            "12692",
+            "Missoula Electric Coop, Inc",
+            "ID",
+            "57",
+            "0"
+        ],
+        [
+            "2",
+            "15472",
+            "Public Service Co of NH",
+            "NH",
+            "478,468",
+            "0"
+        ],
+        [
+            "11",
+            "11824",
+            "Matanuska Electric Assn Inc",
+            "AK",
+            "28,690",
+            "31,259"
+        ],
+        [
+            "1",
+            "20187",
+            "Watertown Municipal Utilities",
+            "SD",
+            "12,802",
+            "0"
+        ],
+        [
+            "2",
+            "15263",
+            "The Potomac Edison Company",
+            "MD",
+            "8,903",
+            "0"
+        ],
+        [
+            "6",
+            "16534",
+            "Sacramento Municipal Util Dist",
+            "CA",
+            "0",
+            "618,833"
+        ],
+        [
+            "11",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,409",
+            "0"
+        ],
+        [
+            "1",
+            "9324",
+            "Indiana Michigan Power Co",
+            "MI",
+            "128,706",
+            "0"
+        ],
+        [
+            "9",
+            "16213",
+            "Rockland Electric Co",
+            "NJ",
+            "21,646",
+            "0"
+        ]
+    ],
+    "580": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "7",
+            "55959",
+            "Roughrider Electric Cooperativ",
+            "ND",
+            "14,604",
+            "0"
+        ],
+        [
+            "4",
+            "7716",
+            "Groton Dept of Utilities - (CT)",
+            "CT",
+            "13,237",
+            "0"
+        ],
+        [
+            "10",
+            "803",
+            "Arizona Public Service Co",
+            "AZ",
+            "294",
+            "1,196,954"
+        ],
+        [
+            "4",
+            "11241",
+            "Entergy Louisiana LLC",
+            "LA",
+            "19,882",
+            "12,247"
+        ],
+        [
+            "2",
+            "18336",
+            "Superior Water and Light Co",
+            "WI",
+            "403",
+            "0"
+        ],
+        [
+            "12",
+            "40437",
+            "Emerald People's Utility Dist",
+            "OR",
+            "21,004",
+            "0"
+        ],
+        [
+            "2",
+            "17874",
+            "City of St George",
+            "UT",
+            "29,065",
+            "0"
+        ],
+        [
+            "1",
+            "44372",
+            "Oncor Electric Delivery Company LLC",
+            "TX",
+            "0",
+            "3,372,575"
+        ],
+        [
+            "5",
+            "17698",
+            "Southwestern Electric Power Co",
+            "TX",
+            "175,461",
+            "0"
+        ],
+        [
+            "10",
+            "18997",
+            "The Toledo Edison Co",
+            "OH",
+            "1,081",
+            "0"
+        ]
+    ],
+    "590": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "1769",
+            "Black Hills Electric Coop, Inc",
+            "SD",
+            "246",
+            "9,394"
+        ],
+        [
+            "3",
+            "14398",
+            "Palmetto Electric Coop Inc",
+            "SC",
+            "0",
+            "69,591"
+        ],
+        [
+            "4",
+            "27058",
+            "High West Energy, Inc",
+            "NE",
+            "3,010",
+            "0"
+        ],
+        [
+            "9",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,553"
+        ],
+        [
+            "4",
+            "20996",
+            "Wright-Hennepin Coop Elec Assn",
+            "MN",
+            "0",
+            "63,270"
+        ],
+        [
+            "11",
+            "15263",
+            "The Potomac Edison Company",
+            "WV",
+            "7,230",
+            "0"
+        ],
+        [
+            "10",
+            "19896",
+            "City of Volga - (SD)",
+            "SD",
+            "1,055",
+            "0"
+        ],
+        [
+            "7",
+            "4110",
+            "Commonwealth Edison Co",
+            "IL",
+            "4,060",
+            "2,531,500"
+        ],
+        [
+            "10",
+            "3093",
+            "Carroll Electric Coop Corp - (AR)",
+            "AR",
+            "0",
+            "83,867"
+        ],
+        [
+            "10",
+            "14354",
+            "PacifiCorp",
+            "WA",
+            "128,150",
+            "0"
+        ]
+    ],
+    "600": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "11",
+            "13073",
+            "Mt Wheeler Power, Inc",
+            "NV",
+            "6,867",
+            "10"
+        ],
+        [
+            "7",
+            "10210",
+            "Ketchikan Public Utilities",
+            "AK",
+            "0",
+            "4,814"
+        ],
+        [
+            "2",
+            "13216",
+            "Nashville Electric Service",
+            "TN",
+            "50,335",
+            "147,890"
+        ],
+        [
+            "9",
+            "6395",
+            "Flathead Electric Coop Inc",
+            "MT",
+            "361",
+            "64,036"
+        ],
+        [
+            "12",
+            "20187",
+            "Watertown Municipal Utilities",
+            "SD",
+            "12,939",
+            "0"
+        ],
+        [
+            "12",
+            "6452",
+            "Florida Power & Light Co",
+            "FL",
+            "633",
+            "4,942,503"
+        ],
+        [
+            "8",
+            "5487",
+            "Duquesne Light Co",
+            "PA",
+            "314,501",
+            "272,613"
+        ],
+        [
+            "9",
+            "13032",
+            "Mt Carmel Public Utility Co",
+            "IL",
+            "0",
+            "0"
+        ],
+        [
+            "8",
+            "13519",
+            "City of Newark - (DE)",
+            "DE",
+            "0",
+            "12,726"
+        ],
+        [
+            "2",
+            "814",
+            "Entergy Arkansas Inc",
+            "TN",
+            "0",
+            "0"
+        ]
+    ],
+    "610": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "12539",
+            "Midwest Electric Member Corp",
+            "NE",
+            "6,474",
+            "0"
+        ],
+        [
+            "11",
+            "9324",
+            "Indiana Michigan Power Co",
+            "IN",
+            "455,022",
+            "10,111"
+        ],
+        [
+            "5",
+            "15444",
+            "Provo City Corp",
+            "UT",
+            "4,701",
+            "1,235"
+        ],
+        [
+            "2",
+            "12293",
+            "City of Memphis - (TN)",
+            "TN",
+            "240",
+            "899"
+        ],
+        [
+            "5",
+            "13815",
+            "Northwestern Wisconsin Elec Co",
+            "WI",
+            "984",
+            "0"
+        ],
+        [
+            "2",
+            "20169",
+            "Avista Corp",
+            "WA",
+            "68,213",
+            "0"
+        ],
+        [
+            "6",
+            "40228",
+            "Rappahannock Electric Coop",
+            "VA",
+            "0",
+            "156,001"
+        ],
+        [
+            "2",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "MT",
+            "25,932",
+            "0"
+        ],
+        [
+            "1",
+            "3093",
+            "Carroll Electric Coop Corp - (AR)",
+            "MO",
+            "0",
+            "11,740"
+        ],
+        [
+            "7",
+            "15263",
+            "The Potomac Edison Company",
+            "MD",
+            "8,999",
+            "0"
+        ]
+    ],
+    "620": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "7",
+            "5487",
+            "Duquesne Light Co",
+            "PA",
+            "328,741",
+            "255,974"
+        ],
+        [
+            "12",
+            "13750",
+            "Northern Electric Coop, Inc",
+            "SD",
+            "0",
+            "6,302"
+        ],
+        [
+            "9",
+            "13756",
+            "Northern Indiana Pub Serv Co",
+            "IN",
+            "14,989",
+            "0"
+        ],
+        [
+            "3",
+            "3828",
+            "Cloverland Electric Co-op",
+            "MI",
+            "42,261",
+            "0"
+        ],
+        [
+            "6",
+            "10005",
+            "Kansas Gas & Electric Co",
+            "KS",
+            "6,040",
+            "248,894"
+        ],
+        [
+            "3",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "OK",
+            "1",
+            "786,794"
+        ],
+        [
+            "9",
+            "24889",
+            "Brunswick Electric Member Corp",
+            "NC",
+            "0",
+            "89,558"
+        ],
+        [
+            "7",
+            "11479",
+            "Madison Gas & Electric Co",
+            "WI",
+            "142,395",
+            "6,754"
+        ],
+        [
+            "3",
+            "19499",
+            "United Power, Inc",
+            "CO",
+            "119",
+            "33,437"
+        ],
+        [
+            "12",
+            "5027",
+            "Delmarva Power",
+            "MD",
+            "79",
+            "0"
+        ]
+    ],
+    "630": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "10005",
+            "Kansas Gas & Electric Co",
+            "KS",
+            "3,771",
+            "274,131"
+        ],
+        [
+            "10",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "AL",
+            "327",
+            "0"
+        ],
+        [
+            "2",
+            "13998",
+            "Ohio Edison Co",
+            "OH",
+            "3,432",
+            "11"
+        ],
+        [
+            "3",
+            "26510",
+            "Liberty Utilities (Granite State Electric) Corp",
+            "NH",
+            "40,859",
+            "8"
+        ],
+        [
+            "11",
+            "20413",
+            "Mountrail-Williams Elec Coop",
+            "ND",
+            "19,808",
+            "0"
+        ],
+        [
+            "12",
+            "16183",
+            "Rochester Gas & Electric Corp",
+            "NY",
+            "677",
+            "0"
+        ],
+        [
+            "6",
+            "19876",
+            "Virginia Electric & Power Co",
+            "VA",
+            "1,958,702",
+            "364,669"
+        ],
+        [
+            "3",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "692"
+        ],
+        [
+            "12",
+            "6204",
+            "City of Farmington - (NM)",
+            "NM",
+            "42,460",
+            "0"
+        ],
+        [
+            "10",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "WY",
+            "15,631",
+            "0"
+        ]
+    ],
+    "640": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "13196",
+            "Northern Plains Electric Coop",
+            "ND",
+            "18,161",
+            "0"
+        ],
+        [
+            "2",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,336",
+            "0"
+        ],
+        [
+            "2",
+            "599",
+            "Anchorage Municipal Light and Power",
+            "AK",
+            "30,429",
+            "0"
+        ],
+        [
+            "3",
+            "17633",
+            "Southern Indiana Gas & Elec Co",
+            "IN",
+            "0",
+            "0"
+        ],
+        [
+            "10",
+            "40606",
+            "City of Grand Island - (NE)",
+            "NE",
+            "0",
+            "782"
+        ],
+        [
+            "12",
+            "9324",
+            "Indiana Michigan Power Co",
+            "MI",
+            "129,112",
+            "0"
+        ],
+        [
+            "12",
+            "7140",
+            "Georgia Power Co",
+            "GA",
+            "0",
+            "2,428,445"
+        ],
+        [
+            "12",
+            "13441",
+            "New Hampshire Elec Coop Inc",
+            "NH",
+            "18",
+            "84,708"
+        ],
+        [
+            "12",
+            "9231",
+            "City of Independence - (MO)",
+            "MO",
+            "0",
+            "0"
+        ],
+        [
+            "12",
+            "12293",
+            "City of Memphis - (TN)",
+            "TN",
+            "237",
+            "140,730"
+        ]
+    ],
+    "650": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "20997",
+            "Yellowstone Valley Elec Co-op",
+            "MT",
+            "18,914",
+            "0"
+        ],
+        [
+            "12",
+            "24211",
+            "Tucson Electric Power Co",
+            "AZ",
+            "428,998",
+            "52"
+        ],
+        [
+            "8",
+            "8287",
+            "Hawaii Electric Light Co Inc",
+            "HI",
+            "14,840",
+            "0"
+        ],
+        [
+            "6",
+            "19574",
+            "Upper Cumberland E M C",
+            "TN",
+            "0",
+            "48,692"
+        ],
+        [
+            "10",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "AZ",
+            "0",
+            "28,610"
+        ],
+        [
+            "12",
+            "18260",
+            "Surprise Valley Electrification",
+            "CA",
+            "0",
+            "0"
+        ],
+        [
+            "4",
+            "4624",
+            "Cumberland Elec Member Corp",
+            "TN",
+            "93,997",
+            "0"
+        ],
+        [
+            "3",
+            "15477",
+            "Public Service Elec & Gas Co",
+            "NJ",
+            "0",
+            "14,011"
+        ],
+        [
+            "6",
+            "4254",
+            "Consumers Energy Co",
+            "MI",
+            "0",
+            "994,837"
+        ],
+        [
+            "3",
+            "1769",
+            "Black Hills Electric Coop, Inc",
+            "SD",
+            "246",
+            "9,406"
+        ]
+    ],
+    "660": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "3542",
+            "Duke Energy Ohio Inc",
+            "OH",
+            "8,859",
+            "705,027"
+        ],
+        [
+            "9",
+            "19547",
+            "Hawaiian Electric Co Inc",
+            "HI",
+            "15,757",
+            "0"
+        ],
+        [
+            "9",
+            "2008",
+            "City of Boulder City - (NV)",
+            "NV",
+            "828",
+            "0"
+        ],
+        [
+            "10",
+            "20997",
+            "Yellowstone Valley Elec Co-op",
+            "MT",
+            "19,224",
+            "0"
+        ],
+        [
+            "5",
+            "13780",
+            "Northern States Power Co",
+            "MI",
+            "9,292",
+            "0"
+        ],
+        [
+            "4",
+            "14232",
+            "Otter Tail Power Co",
+            "MN",
+            "41",
+            "0"
+        ],
+        [
+            "12",
+            "20332",
+            "Wells Rural Electric Co",
+            "UT",
+            "708",
+            "0"
+        ],
+        [
+            "1",
+            "13337",
+            "Nebraska Public Power District",
+            "SD",
+            "0",
+            "1,276"
+        ],
+        [
+            "8",
+            "5574",
+            "East Central Energy",
+            "WI",
+            "5,122",
+            "0"
+        ],
+        [
+            "9",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "NM",
+            "0",
+            "10,383"
+        ]
+    ],
+    "670": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,551"
+        ],
+        [
+            "12",
+            "17647",
+            "Southern Pine Elec Power Assn",
+            "MS",
+            "0",
+            "66,566"
+        ],
+        [
+            "10",
+            "7801",
+            "Gulf Power Co",
+            "FL",
+            "0",
+            "444,442"
+        ],
+        [
+            "2",
+            "19390",
+            "UGI Utilities, Inc",
+            "PA",
+            "59,427",
+            "0"
+        ],
+        [
+            "11",
+            "13780",
+            "Northern States Power Co",
+            "MI",
+            "9,181",
+            "0"
+        ],
+        [
+            "2",
+            "5335",
+            "City of Dover - (DE)",
+            "DE",
+            "23,406",
+            "0"
+        ],
+        [
+            "6",
+            "21538",
+            "Mohave Electric Cooperative, I",
+            "AZ",
+            "0",
+            "37,591"
+        ],
+        [
+            "5",
+            "3046",
+            "Duke Energy Progress - (NC)",
+            "NC",
+            "1,334,412",
+            "0"
+        ],
+        [
+            "2",
+            "9417",
+            "Interstate Power and Light Co",
+            "IA",
+            "6,058",
+            "0"
+        ],
+        [
+            "5",
+            "5487",
+            "Duquesne Light Co",
+            "PA",
+            "359,680",
+            "226,493"
+        ]
+    ],
+    "680": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "19785",
+            "Verdigris Valley Elec Coop Inc",
+            "OK",
+            "0",
+            "36,132"
+        ],
+        [
+            "11",
+            "17612",
+            "Bear Valley Electric Service",
+            "CA",
+            "23,890",
+            "0"
+        ],
+        [
+            "4",
+            "40228",
+            "Rappahannock Electric Coop",
+            "VA",
+            "0",
+            "155,615"
+        ],
+        [
+            "7",
+            "3989",
+            "City of Colorado Springs - (CO)",
+            "CO",
+            "208,797",
+            "12,637"
+        ],
+        [
+            "2",
+            "20334",
+            "Wellsborough Electric Co",
+            "PA",
+            "1,004",
+            "4,787"
+        ],
+        [
+            "6",
+            "13780",
+            "Northern States Power Co",
+            "MI",
+            "9,269",
+            "0"
+        ],
+        [
+            "7",
+            "9336",
+            "Intermountain Rural Elec Assn",
+            "CO",
+            "149,987",
+            "0"
+        ],
+        [
+            "7",
+            "16604",
+            "City of San Antonio - (TX)",
+            "TX",
+            "314,945",
+            "357,907"
+        ],
+        [
+            "12",
+            "19293",
+            "Southeastern Electric Coop Inc - (SD)",
+            "SD",
+            "16,123",
+            "0"
+        ],
+        [
+            "12",
+            "20455",
+            "Western Massachusetts Electric Company",
+            "MA",
+            "216,634",
+            "0"
+        ]
+    ],
+    "690": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "18642",
+            "Tennessee Valley Authority",
+            "NC",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "261",
+            "AGC Division of APG Inc",
+            "IN",
+            "5",
+            "0"
+        ],
+        [
+            "6",
+            "17718",
+            "Southwestern Public Service Co",
+            "NM",
+            "914",
+            "17"
+        ],
+        [
+            "5",
+            "16534",
+            "Sacramento Municipal Util Dist",
+            "CA",
+            "0",
+            "618,496"
+        ],
+        [
+            "1",
+            "17066",
+            "Shenandoah Valley Elec Coop",
+            "VA",
+            "91,688",
+            "0"
+        ],
+        [
+            "2",
+            "4390",
+            "City of Corona - (CA)",
+            "CA",
+            "1,480",
+            "0"
+        ],
+        [
+            "9",
+            "15248",
+            "Portland General Electric Co",
+            "OR",
+            "0",
+            "862,792"
+        ],
+        [
+            "10",
+            "84",
+            "A & N Electric Coop",
+            "VA",
+            "33,900",
+            "0"
+        ],
+        [
+            "2",
+            "6452",
+            "Florida Power & Light Co",
+            "FL",
+            "676",
+            "4,889,468"
+        ],
+        [
+            "4",
+            "13718",
+            "City of North Little Rock - (AR)",
+            "AR",
+            "22",
+            "36,624"
+        ]
+    ],
+    "700": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "213",
+            "Alaska Electric Light&Power Co",
+            "AK",
+            "15,938",
+            "0"
+        ],
+        [
+            "2",
+            "5487",
+            "Duquesne Light Co",
+            "PA",
+            "405,112",
+            "181,997"
+        ],
+        [
+            "1",
+            "4911",
+            "Dawson Power District",
+            "NE",
+            "3",
+            "22,919"
+        ],
+        [
+            "7",
+            "9726",
+            "Jersey Central Power & Lt Co",
+            "NJ",
+            "3,852",
+            "0"
+        ],
+        [
+            "7",
+            "4373",
+            "Cornhusker Public Power Dist",
+            "NE",
+            "9,633",
+            "0"
+        ],
+        [
+            "10",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "MT",
+            "0",
+            "42"
+        ],
+        [
+            "1",
+            "5416",
+            "Duke Energy Carolinas, LLC",
+            "NC",
+            "1,440,606",
+            "445,600"
+        ],
+        [
+            "4",
+            "13750",
+            "Northern Electric Coop, Inc",
+            "SD",
+            "0",
+            "6,249"
+        ],
+        [
+            "12",
+            "19840",
+            "Valley Electric Assn, Inc",
+            "CA",
+            "44",
+            "0"
+        ],
+        [
+            "12",
+            "17008",
+            "Sharyland Utilities LP",
+            "TX",
+            "3,147",
+            "50,986"
+        ]
+    ],
+    "710": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "9324",
+            "Indiana Michigan Power Co",
+            "IN",
+            "453,409",
+            "9,940"
+        ],
+        [
+            "4",
+            "40051",
+            "Texas-New Mexico Power Co",
+            "TX",
+            "0",
+            "228,181"
+        ],
+        [
+            "4",
+            "8566",
+            "High Plains Power Inc",
+            "WY",
+            "13,029",
+            "0"
+        ],
+        [
+            "2",
+            "15470",
+            "Duke Energy Indiana, LLC",
+            "IN",
+            "825,887",
+            "3,425"
+        ],
+        [
+            "11",
+            "17539",
+            "South Carolina Electric&Gas Company",
+            "SC",
+            "693,687",
+            "11,732"
+        ],
+        [
+            "1",
+            "84",
+            "A & N Electric Coop",
+            "MD",
+            "311",
+            "0"
+        ],
+        [
+            "3",
+            "40051",
+            "Texas-New Mexico Power Co",
+            "TX",
+            "0",
+            "226,187"
+        ],
+        [
+            "9",
+            "12087",
+            "McKenzie Electric Coop Inc",
+            "ND",
+            "12,309",
+            "0"
+        ],
+        [
+            "5",
+            "13216",
+            "Nashville Electric Service",
+            "TN",
+            "46,414",
+            "160,622"
+        ],
+        [
+            "6",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "6,872",
+            "0"
+        ]
+    ],
+    "720": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "18642",
+            "Tennessee Valley Authority",
+            "MS",
+            "0",
+            "20"
+        ],
+        [
+            "10",
+            "17609",
+            "Southern California Edison Co",
+            "CA",
+            "25,914",
+            "5,033,977"
+        ],
+        [
+            "9",
+            "14127",
+            "Omaha Public Power District",
+            "NE",
+            "370,072",
+            "547"
+        ],
+        [
+            "5",
+            "3408",
+            "City of Chattanooga - (TN)",
+            "TN",
+            "0",
+            "165,125"
+        ],
+        [
+            "6",
+            "25866",
+            "Ak-Chin Electric Utility Authority",
+            "AZ",
+            "450",
+            "0"
+        ],
+        [
+            "3",
+            "11251",
+            "Loup River Public Power Dist",
+            "NE",
+            "19,211",
+            "0"
+        ],
+        [
+            "10",
+            "17470",
+            "PUD 1 of Snohomish County",
+            "WA",
+            "4,140",
+            "0"
+        ],
+        [
+            "1",
+            "20169",
+            "Avista Corp",
+            "WA",
+            "68,213",
+            "0"
+        ],
+        [
+            "9",
+            "6457",
+            "Florida Public Utilities Co",
+            "FL",
+            "10,092",
+            "0"
+        ],
+        [
+            "8",
+            "4911",
+            "Dawson Power District",
+            "NE",
+            "0",
+            "23,024"
+        ]
+    ],
+    "730": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "3",
+            "16183",
+            "Rochester Gas & Electric Corp",
+            "NY",
+            "677",
+            "0"
+        ],
+        [
+            "1",
+            "5335",
+            "City of Dover - (DE)",
+            "DE",
+            "23,328",
+            "0"
+        ],
+        [
+            "11",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,787"
+        ],
+        [
+            "1",
+            "19876",
+            "Virginia Electric & Power Co",
+            "NC",
+            "112,309",
+            "0"
+        ],
+        [
+            "10",
+            "1857",
+            "Block Island Power Co",
+            "RI",
+            "1,909",
+            "0"
+        ],
+        [
+            "6",
+            "7716",
+            "Groton Dept of Utilities - (CT)",
+            "CT",
+            "13,270",
+            "0"
+        ],
+        [
+            "2",
+            "15473",
+            "Public Service Co of NM",
+            "NM",
+            "33,386",
+            "0"
+        ],
+        [
+            "10",
+            "19497",
+            "United Illuminating Co",
+            "CT",
+            "134,693",
+            "209,824"
+        ],
+        [
+            "6",
+            "12341",
+            "MidAmerican Energy Co",
+            "IL",
+            "84,546",
+            "0"
+        ],
+        [
+            "9",
+            "13815",
+            "Northwestern Wisconsin Elec Co",
+            "MN",
+            "80",
+            "0"
+        ]
+    ],
+    "740": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "1857",
+            "Block Island Power Co",
+            "RI",
+            "1,899",
+            "0"
+        ],
+        [
+            "1",
+            "20856",
+            "Wisconsin Power & Light Co",
+            "WI",
+            "65",
+            "461,033"
+        ],
+        [
+            "8",
+            "17539",
+            "South Carolina Electric&Gas Company",
+            "SC",
+            "691,860",
+            "11,425"
+        ],
+        [
+            "3",
+            "9726",
+            "Jersey Central Power & Lt Co",
+            "NJ",
+            "3,780",
+            "0"
+        ],
+        [
+            "6",
+            "11273",
+            "Lower Valley Energy Inc",
+            "ID",
+            "0",
+            "1,693"
+        ],
+        [
+            "12",
+            "11273",
+            "Lower Valley Energy Inc",
+            "ID",
+            "0",
+            "1,705"
+        ],
+        [
+            "2",
+            "3597",
+            "Citizens Electric Co - (PA)",
+            "PA",
+            "0",
+            "6,944"
+        ],
+        [
+            "1",
+            "8774",
+            "City of Holyoke - (MA)",
+            "MA",
+            "17,200",
+            "0"
+        ],
+        [
+            "5",
+            "689",
+            "Connexus Energy",
+            "MN",
+            "0",
+            "0"
+        ],
+        [
+            "6",
+            "9417",
+            "Interstate Power and Light Co",
+            "IA",
+            "6,385",
+            "0"
+        ]
+    ],
+    "750": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "7490",
+            "Grand River Dam Authority",
+            "OK",
+            "0",
+            "175"
+        ],
+        [
+            "10",
+            "20038",
+            "Town of Wallingford - (CT)",
+            "CT",
+            "8,236",
+            "0"
+        ],
+        [
+            "4",
+            "17647",
+            "Southern Pine Elec Power Assn",
+            "MS",
+            "0",
+            "66,281"
+        ],
+        [
+            "9",
+            "15045",
+            "Pike County Light & Power Co",
+            "PA",
+            "3,378",
+            "0"
+        ],
+        [
+            "1",
+            "12919",
+            "Morenci Water and Electric",
+            "AZ",
+            "2,590",
+            "0"
+        ],
+        [
+            "10",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "WA",
+            "0",
+            "96"
+        ],
+        [
+            "5",
+            "19547",
+            "Hawaiian Electric Co Inc",
+            "HI",
+            "15,341",
+            "0"
+        ],
+        [
+            "1",
+            "3704",
+            "City of Clarksville - (TN)",
+            "TN",
+            "0",
+            "63,783"
+        ],
+        [
+            "3",
+            "17564",
+            "South Kentucky Rural E C C",
+            "TN",
+            "0",
+            "185"
+        ],
+        [
+            "6",
+            "9231",
+            "City of Independence - (MO)",
+            "MO",
+            "0",
+            "0"
+        ]
+    ],
+    "760": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "10171",
+            "Kentucky Utilities Co",
+            "TN",
+            "4",
+            "0"
+        ],
+        [
+            "10",
+            "49998",
+            "City of Berea Municipal Utility",
+            "KY",
+            "5,206",
+            "0"
+        ],
+        [
+            "2",
+            "19436",
+            "Union Electric Co - (MO)",
+            "MO",
+            "1,196,946",
+            "0"
+        ],
+        [
+            "10",
+            "9837",
+            "Jones-Onslow Elec Member Corp",
+            "NC",
+            "68,770",
+            "0"
+        ],
+        [
+            "12",
+            "12470",
+            "Middle Tennessee E M C",
+            "TN",
+            "0",
+            "209,656"
+        ],
+        [
+            "9",
+            "10071",
+            "Kauai Island Utility Cooperative",
+            "HI",
+            "1,155",
+            "30,957"
+        ],
+        [
+            "4",
+            "19156",
+            "Powder River Energy Corp",
+            "MT",
+            "177",
+            "2"
+        ],
+        [
+            "7",
+            "26510",
+            "Liberty Utilities (Granite State Electric) Corp",
+            "NH",
+            "40,983",
+            "7"
+        ],
+        [
+            "9",
+            "40606",
+            "City of Grand Island - (NE)",
+            "NE",
+            "0",
+            "763"
+        ],
+        [
+            "11",
+            "9273",
+            "Indianapolis Power & Light Co",
+            "IN",
+            "473,939",
+            "50,220"
+        ]
+    ],
+    "770": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "44372",
+            "Oncor Electric Delivery Company LLC",
+            "TX",
+            "0",
+            "3,390,196"
+        ],
+        [
+            "1",
+            "3597",
+            "Citizens Electric Co - (PA)",
+            "PA",
+            "0",
+            "6,941"
+        ],
+        [
+            "2",
+            "6342",
+            "First Electric Coop Corp",
+            "AR",
+            "0",
+            "91,055"
+        ],
+        [
+            "10",
+            "16572",
+            "Salt River Project",
+            "AZ",
+            "3",
+            "917,155"
+        ],
+        [
+            "12",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "MT",
+            "330,732",
+            "0"
+        ],
+        [
+            "3",
+            "10451",
+            "Kotzebue Electric Assn Inc",
+            "AK",
+            "79",
+            "1,058"
+        ],
+        [
+            "10",
+            "3522",
+            "Chugach Electric Assn Inc",
+            "AK",
+            "44,868",
+            "41,240"
+        ],
+        [
+            "10",
+            "14354",
+            "PacifiCorp",
+            "ID",
+            "32,226",
+            "0"
+        ],
+        [
+            "8",
+            "15500",
+            "Puget Sound Energy Inc",
+            "WA",
+            "1,138,619",
+            "4,993"
+        ],
+        [
+            "7",
+            "19898",
+            "Volunteer Electric Coop",
+            "TN",
+            "0",
+            "114,229"
+        ]
+    ],
+    "780": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "13694",
+            "North Central Elec Coop, Inc",
+            "ND",
+            "7,817",
+            "0"
+        ],
+        [
+            "7",
+            "19785",
+            "Verdigris Valley Elec Coop Inc",
+            "OK",
+            "0",
+            "36,150"
+        ],
+        [
+            "8",
+            "11171",
+            "Long Island Power Authority",
+            "NY",
+            "17,291",
+            "10,213"
+        ],
+        [
+            "2",
+            "213",
+            "Alaska Electric Light&Power Co",
+            "AK",
+            "15,036",
+            "0"
+        ],
+        [
+            "9",
+            "14232",
+            "Otter Tail Power Co",
+            "ND",
+            "19",
+            "0"
+        ],
+        [
+            "4",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "NV",
+            "0",
+            "1,775"
+        ],
+        [
+            "1",
+            "17874",
+            "City of St George",
+            "UT",
+            "29,037",
+            "0"
+        ],
+        [
+            "2",
+            "2548",
+            "City of Burlington Electric - (VT)",
+            "VT",
+            "429",
+            "19,495"
+        ],
+        [
+            "1",
+            "5027",
+            "Delmarva Power",
+            "DE",
+            "69",
+            "293,663"
+        ],
+        [
+            "2",
+            "55937",
+            "Entergy Texas Inc.",
+            "TX",
+            "16,548",
+            "0"
+        ]
+    ],
+    "790": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "12",
+            "3408",
+            "City of Chattanooga - (TN)",
+            "GA",
+            "0",
+            "10,535"
+        ],
+        [
+            "3",
+            "817",
+            "Arkansas Valley Elec Coop Corp",
+            "AR",
+            "0",
+            "54,028"
+        ],
+        [
+            "11",
+            "12919",
+            "Morenci Water and Electric",
+            "AZ",
+            "2,607",
+            "0"
+        ],
+        [
+            "10",
+            "12698",
+            "KCP&L Greater Missouri Operations Co.",
+            "MO",
+            "456",
+            "188,383"
+        ],
+        [
+            "10",
+            "13511",
+            "New York State Elec & Gas Corp",
+            "NY",
+            "984",
+            "0"
+        ],
+        [
+            "12",
+            "19281",
+            "Turlock Irrigation District",
+            "CA",
+            "81,588",
+            "0"
+        ],
+        [
+            "3",
+            "14006",
+            "Ohio Power Co",
+            "OH",
+            "618,845",
+            "135,962"
+        ],
+        [
+            "5",
+            "24889",
+            "Brunswick Electric Member Corp",
+            "NC",
+            "0",
+            "88,994"
+        ],
+        [
+            "1",
+            "84",
+            "A & N Electric Coop",
+            "VA",
+            "33,733",
+            "0"
+        ],
+        [
+            "12",
+            "44372",
+            "Oncor Electric Delivery Company LLC",
+            "TX",
+            "0",
+            "3,424,551"
+        ]
+    ],
+    "800": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "3046",
+            "Duke Energy Progress - (NC)",
+            "NC",
+            "1,329,669",
+            "0"
+        ],
+        [
+            "6",
+            "13750",
+            "Northern Electric Coop, Inc",
+            "SD",
+            "0",
+            "6,241"
+        ],
+        [
+            "3",
+            "18429",
+            "City of Tacoma - (WA)",
+            "WA",
+            "492",
+            "15,614"
+        ],
+        [
+            "6",
+            "20404",
+            "AEP Texas North Company",
+            "TX",
+            "54",
+            "189,310"
+        ],
+        [
+            "5",
+            "27058",
+            "High West Energy, Inc",
+            "WY",
+            "5,895",
+            "0"
+        ],
+        [
+            "5",
+            "19574",
+            "Upper Cumberland E M C",
+            "TN",
+            "0",
+            "48,626"
+        ],
+        [
+            "4",
+            "4226",
+            "Consolidated Edison Co-NY Inc",
+            "NY",
+            "1,349,894",
+            "0"
+        ],
+        [
+            "11",
+            "20847",
+            "Wisconsin Electric Power Co",
+            "WI",
+            "951,749",
+            "186,853"
+        ],
+        [
+            "9",
+            "14232",
+            "Otter Tail Power Co",
+            "SD",
+            "8",
+            "0"
+        ],
+        [
+            "3",
+            "17694",
+            "Southwest Tennessee E M C",
+            "TN",
+            "40,468",
+            "8,890"
+        ]
+    ],
+    "810": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "MN",
+            "1,205,950",
+            "0"
+        ],
+        [
+            "3",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "ND",
+            "92,803",
+            "0"
+        ],
+        [
+            "5",
+            "10210",
+            "Ketchikan Public Utilities",
+            "AK",
+            "0",
+            "4,794"
+        ],
+        [
+            "10",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,404",
+            "0"
+        ],
+        [
+            "5",
+            "55959",
+            "Roughrider Electric Cooperativ",
+            "ND",
+            "14,581",
+            "0"
+        ],
+        [
+            "9",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "SD",
+            "0",
+            "68,835"
+        ],
+        [
+            "12",
+            "19574",
+            "Upper Cumberland E M C",
+            "TN",
+            "0",
+            "49,282"
+        ],
+        [
+            "8",
+            "219",
+            "Alaska Power and Telephone Co",
+            "AK",
+            "7,938",
+            "0"
+        ],
+        [
+            "9",
+            "56146",
+            "Black Hills/Colorado Elec.Util",
+            "CO",
+            "0",
+            "95,954"
+        ],
+        [
+            "7",
+            "221",
+            "Alaska Village Elec Coop, Inc",
+            "AK",
+            "10,806",
+            "0"
+        ]
+    ],
+    "820": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "4",
+            "14354",
+            "PacifiCorp",
+            "ID",
+            "30,359",
+            "0"
+        ],
+        [
+            "2",
+            "15045",
+            "Pike County Light & Power Co",
+            "PA",
+            "3,371",
+            "0"
+        ],
+        [
+            "1",
+            "4624",
+            "Cumberland Elec Member Corp",
+            "TN",
+            "93,498",
+            "0"
+        ],
+        [
+            "4",
+            "10210",
+            "Ketchikan Public Utilities",
+            "AK",
+            "0",
+            "4,781"
+        ],
+        [
+            "11",
+            "13519",
+            "City of Newark - (DE)",
+            "DE",
+            "0",
+            "12,748"
+        ],
+        [
+            "7",
+            "14354",
+            "PacifiCorp",
+            "WA",
+            "127,710",
+            "0"
+        ],
+        [
+            "10",
+            "12470",
+            "Middle Tennessee E M C",
+            "TN",
+            "0",
+            "208,058"
+        ],
+        [
+            "5",
+            "19390",
+            "UGI Utilities, Inc",
+            "PA",
+            "59,438",
+            "0"
+        ],
+        [
+            "6",
+            "2548",
+            "City of Burlington Electric - (VT)",
+            "VT",
+            "445",
+            "19,274"
+        ],
+        [
+            "5",
+            "25866",
+            "Ak-Chin Electric Utility Authority",
+            "AZ",
+            "450",
+            "0"
+        ]
+    ],
+    "830": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "19790",
+            "Verendrye Electric Coop Inc",
+            "ND",
+            "0",
+            "16,176"
+        ],
+        [
+            "6",
+            "5109",
+            "DTE Electric Company",
+            "MI",
+            "0",
+            "2,271,943"
+        ],
+        [
+            "8",
+            "12301",
+            "Nodak Electric Coop Inc",
+            "ND",
+            "0",
+            "19,298"
+        ],
+        [
+            "11",
+            "17066",
+            "Shenandoah Valley Elec Coop",
+            "VA",
+            "92,613",
+            "0"
+        ],
+        [
+            "11",
+            "19840",
+            "Valley Electric Assn, Inc",
+            "NV",
+            "21,439",
+            "0"
+        ],
+        [
+            "6",
+            "4958",
+            "Decatur Utilities",
+            "AL",
+            "11,034",
+            "508"
+        ],
+        [
+            "2",
+            "7490",
+            "Grand River Dam Authority",
+            "OK",
+            "0",
+            "174"
+        ],
+        [
+            "1",
+            "19574",
+            "Upper Cumberland E M C",
+            "TN",
+            "0",
+            "48,409"
+        ],
+        [
+            "7",
+            "195",
+            "Alabama Power Co",
+            "AL",
+            "0",
+            "1,438,049"
+        ],
+        [
+            "5",
+            "20455",
+            "Western Massachusetts Electric Company",
+            "MA",
+            "216,399",
+            "0"
+        ]
+    ],
+    "840": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "7",
+            "20404",
+            "AEP Texas North Company",
+            "TX",
+            "54",
+            "189,236"
+        ],
+        [
+            "6",
+            "11824",
+            "Matanuska Electric Assn Inc",
+            "AK",
+            "29,524",
+            "29,129"
+        ],
+        [
+            "9",
+            "12390",
+            "Metropolitan Edison Co",
+            "PA",
+            "4,363",
+            "1"
+        ],
+        [
+            "8",
+            "9601",
+            "Jackson Electric Member Corp - (GA)",
+            "GA",
+            "0",
+            "216,698"
+        ],
+        [
+            "9",
+            "19446",
+            "Duke Energy Kentucky",
+            "KY",
+            "103,235",
+            "39,635"
+        ],
+        [
+            "5",
+            "814",
+            "Entergy Arkansas Inc",
+            "TN",
+            "0",
+            "0"
+        ],
+        [
+            "1",
+            "19785",
+            "Verdigris Valley Elec Coop Inc",
+            "OK",
+            "0",
+            "36,110"
+        ],
+        [
+            "2",
+            "14127",
+            "Omaha Public Power District",
+            "NE",
+            "367,869",
+            "509"
+        ],
+        [
+            "6",
+            "3046",
+            "Duke Energy Progress - (NC)",
+            "SC",
+            "165,656",
+            "0"
+        ],
+        [
+            "12",
+            "12686",
+            "Mississippi Power Co",
+            "MS",
+            "6,638",
+            "20"
+        ]
+    ],
+    "850": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "5574",
+            "East Central Energy",
+            "MN",
+            "53,641",
+            "0"
+        ],
+        [
+            "2",
+            "6374",
+            "Fitchburg Gas & Elec Light Co",
+            "MA",
+            "15",
+            "28,779"
+        ],
+        [
+            "12",
+            "14232",
+            "Otter Tail Power Co",
+            "ND",
+            "19",
+            "0"
+        ],
+        [
+            "12",
+            "5701",
+            "El Paso Electric Co",
+            "TX",
+            "308,266",
+            "0"
+        ],
+        [
+            "8",
+            "17642",
+            "Southern Public Power District",
+            "NE",
+            "2,980",
+            "0"
+        ],
+        [
+            "3",
+            "18642",
+            "Tennessee Valley Authority",
+            "KY",
+            "0",
+            "66"
+        ],
+        [
+            "3",
+            "17470",
+            "PUD 1 of Snohomish County",
+            "WA",
+            "4,124",
+            "0"
+        ],
+        [
+            "9",
+            "22500",
+            "Westar Energy Inc",
+            "KS",
+            "22,610",
+            "121,492"
+        ],
+        [
+            "5",
+            "15473",
+            "Public Service Co of NM",
+            "NM",
+            "33,418",
+            "0"
+        ],
+        [
+            "9",
+            "12293",
+            "City of Memphis - (TN)",
+            "TN",
+            "235",
+            "58,997"
+        ]
+    ],
+    "860": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "14062",
+            "Oklahoma Electric Coop Inc",
+            "OK",
+            "0",
+            "53,597"
+        ],
+        [
+            "6",
+            "6455",
+            "Duke Energy Florida, LLC",
+            "FL",
+            "1,642,282",
+            "76,954"
+        ],
+        [
+            "5",
+            "19791",
+            "Vermont Electric Cooperative, Inc",
+            "VT",
+            "40,849",
+            "0"
+        ],
+        [
+            "6",
+            "5070",
+            "Delaware Electric Cooperative",
+            "DE",
+            "87,642",
+            "0"
+        ],
+        [
+            "1",
+            "19876",
+            "Virginia Electric & Power Co",
+            "VA",
+            "1,953,022",
+            "362,525"
+        ],
+        [
+            "10",
+            "19545",
+            "Black Hills Power, Inc. d/b/a",
+            "SD",
+            "0",
+            "68,473"
+        ],
+        [
+            "7",
+            "13314",
+            "Navajo Tribal Utility Authority",
+            "UT",
+            "0",
+            "844"
+        ],
+        [
+            "6",
+            "9324",
+            "Indiana Michigan Power Co",
+            "MI",
+            "129,099",
+            "0"
+        ],
+        [
+            "11",
+            "17637",
+            "Southern Maryland Elec Coop Inc",
+            "MD",
+            "74,032",
+            "17,235"
+        ],
+        [
+            "5",
+            "13750",
+            "Northern Electric Coop, Inc",
+            "SD",
+            "0",
+            "6,278"
+        ]
+    ],
+    "870": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "WA",
+            "0",
+            "94"
+        ],
+        [
+            "4",
+            "17470",
+            "PUD 1 of Snohomish County",
+            "WA",
+            "4,136",
+            "0"
+        ],
+        [
+            "3",
+            "1179",
+            "Emera Maine",
+            "ME",
+            "0",
+            "120,556"
+        ],
+        [
+            "8",
+            "20187",
+            "Watertown Municipal Utilities",
+            "SD",
+            "12,899",
+            "0"
+        ],
+        [
+            "2",
+            "17166",
+            "Sierra Pacific Power Co",
+            "NV",
+            "165",
+            "338,668"
+        ],
+        [
+            "9",
+            "20401",
+            "West River Electric Assn Inc",
+            "SD",
+            "0",
+            "16,777"
+        ],
+        [
+            "1",
+            "15500",
+            "Puget Sound Energy Inc",
+            "WA",
+            "1,129,128",
+            "4,810"
+        ],
+        [
+            "8",
+            "689",
+            "Connexus Energy",
+            "MN",
+            "0",
+            "0"
+        ],
+        [
+            "4",
+            "10171",
+            "Kentucky Utilities Co",
+            "KY",
+            "26,959",
+            "1,022"
+        ],
+        [
+            "6",
+            "55937",
+            "Entergy Texas Inc.",
+            "TX",
+            "17,647",
+            "0"
+        ]
+    ],
+    "880": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "1",
+            "10000",
+            "Kansas City Power & Light Co",
+            "MO",
+            "1,280",
+            "275,033"
+        ],
+        [
+            "7",
+            "4226",
+            "Consolidated Edison Co-NY Inc",
+            "NY",
+            "1,358,593",
+            "0"
+        ],
+        [
+            "10",
+            "17718",
+            "Southwestern Public Service Co",
+            "TX",
+            "334",
+            "40"
+        ],
+        [
+            "11",
+            "19281",
+            "Turlock Irrigation District",
+            "CA",
+            "81,560",
+            "0"
+        ],
+        [
+            "5",
+            "14940",
+            "PECO Energy Co",
+            "PA",
+            "10,146",
+            "1,637,188"
+        ],
+        [
+            "2",
+            "40606",
+            "City of Grand Island - (NE)",
+            "NE",
+            "0",
+            "663"
+        ],
+        [
+            "2",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "AR",
+            "0",
+            "68,445"
+        ],
+        [
+            "1",
+            "13780",
+            "Northern States Power Co",
+            "MI",
+            "9,290",
+            "0"
+        ],
+        [
+            "12",
+            "17267",
+            "Sioux Valley SW Elec Coop",
+            "MN",
+            "0",
+            "3,808"
+        ],
+        [
+            "6",
+            "15500",
+            "Puget Sound Energy Inc",
+            "WA",
+            "1,136,825",
+            "4,977"
+        ]
+    ],
+    "890": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "5",
+            "19898",
+            "Volunteer Electric Coop",
+            "TN",
+            "8",
+            "113,913"
+        ],
+        [
+            "10",
+            "12199",
+            "Montana-Dakota Utilities Co",
+            "MT",
+            "25,778",
+            "0"
+        ],
+        [
+            "4",
+            "12341",
+            "MidAmerican Energy Co",
+            "SD",
+            "4,783",
+            "0"
+        ],
+        [
+            "7",
+            "21538",
+            "Mohave Electric Cooperative, I",
+            "AZ",
+            "0",
+            "37,606"
+        ],
+        [
+            "8",
+            "14063",
+            "Oklahoma Gas & Electric Co",
+            "AR",
+            "0",
+            "68,617"
+        ],
+        [
+            "4",
+            "2247",
+            "City of Bristol - (TN)",
+            "TN",
+            "0",
+            "15,628"
+        ],
+        [
+            "11",
+            "8245",
+            "City of Hastings - (NE)",
+            "NE",
+            "12,448",
+            "0"
+        ],
+        [
+            "6",
+            "20856",
+            "Wisconsin Power & Light Co",
+            "WI",
+            "71",
+            "463,293"
+        ],
+        [
+            "12",
+            "18454",
+            "Tampa Electric Co",
+            "FL",
+            "676,747",
+            "2,165"
+        ],
+        [
+            "1",
+            "6395",
+            "Flathead Electric Coop Inc",
+            "MT",
+            "360",
+            "63,448"
+        ]
+    ],
+    "900": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "10171",
+            "Kentucky Utilities Co",
+            "KY",
+            "26,973",
+            "1,103"
+        ],
+        [
+            "8",
+            "10433",
+            "Kodiak Electric Assn Inc",
+            "AK",
+            "5,728",
+            "0"
+        ],
+        [
+            "8",
+            "3755",
+            "Cleveland Electric Illum Co",
+            "OH",
+            "9,181",
+            "31,819"
+        ],
+        [
+            "2",
+            "5070",
+            "Delaware Electric Cooperative",
+            "DE",
+            "86,635",
+            "0"
+        ],
+        [
+            "3",
+            "11804",
+            "Massachusetts Electric Co",
+            "MA",
+            "1,242,080",
+            "15,046"
+        ],
+        [
+            "9",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "WA",
+            "0",
+            "96"
+        ],
+        [
+            "11",
+            "19156",
+            "Powder River Energy Corp",
+            "MT",
+            "179",
+            "2"
+        ],
+        [
+            "3",
+            "10421",
+            "Knoxville Utilities Board",
+            "TN",
+            "6,888",
+            "6,174"
+        ],
+        [
+            "10",
+            "7625",
+            "City of Greeneville - (TN)",
+            "TN",
+            "0",
+            "38,176"
+        ],
+        [
+            "3",
+            "12825",
+            "NorthWestern Energy LLC - (MT)",
+            "MT",
+            "327,200",
+            "0"
+        ]
+    ],
+    "910": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "5574",
+            "East Central Energy",
+            "WI",
+            "5,128",
+            "0"
+        ],
+        [
+            "10",
+            "22500",
+            "Westar Energy Inc",
+            "KS",
+            "22,558",
+            "125,163"
+        ],
+        [
+            "10",
+            "44372",
+            "Oncor Electric Delivery Company LLC",
+            "TX",
+            "0",
+            "3,415,756"
+        ],
+        [
+            "6",
+            "14711",
+            "Pennsylvania Electric Co",
+            "NY",
+            "1",
+            "0"
+        ],
+        [
+            "1",
+            "14154",
+            "Orange & Rockland Utils Inc",
+            "NY",
+            "92,261",
+            "0"
+        ],
+        [
+            "9",
+            "17698",
+            "Southwestern Electric Power Co",
+            "TX",
+            "175,882",
+            "0"
+        ],
+        [
+            "10",
+            "20847",
+            "Wisconsin Electric Power Co",
+            "WI",
+            "982,558",
+            "141,531"
+        ],
+        [
+            "9",
+            "20187",
+            "Watertown Municipal Utilities",
+            "SD",
+            "12,907",
+            "0"
+        ],
+        [
+            "2",
+            "14232",
+            "Otter Tail Power Co",
+            "SD",
+            "8",
+            "0"
+        ],
+        [
+            "10",
+            "17267",
+            "Sioux Valley SW Elec Coop",
+            "MN",
+            "0",
+            "3,807"
+        ]
+    ],
+    "920": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "3",
+            "13780",
+            "Northern States Power Co",
+            "WI",
+            "246,849",
+            "0"
+        ],
+        [
+            "5",
+            "261",
+            "AGC Division of APG Inc",
+            "IN",
+            "5",
+            "0"
+        ],
+        [
+            "4",
+            "26510",
+            "Liberty Utilities (Granite State Electric) Corp",
+            "NH",
+            "40,912",
+            "8"
+        ],
+        [
+            "5",
+            "17718",
+            "Southwestern Public Service Co",
+            "NM",
+            "895",
+            "17"
+        ],
+        [
+            "3",
+            "9617",
+            "JEA",
+            "FL",
+            "317,654",
+            "142,524"
+        ],
+        [
+            "9",
+            "9231",
+            "City of Independence - (MO)",
+            "MO",
+            "0",
+            "0"
+        ],
+        [
+            "8",
+            "20521",
+            "Wheeling Power Co",
+            "WV",
+            "41,633",
+            "18"
+        ],
+        [
+            "1",
+            "11475",
+            "City of Madison - (SD)",
+            "SD",
+            "0",
+            "0"
+        ],
+        [
+            "11",
+            "8901",
+            "CenterPoint Energy",
+            "TX",
+            "8,997",
+            "2,409,062"
+        ],
+        [
+            "8",
+            "19728",
+            "UNS Electric, Inc",
+            "AZ",
+            "92,610",
+            "140"
+        ]
+    ],
+    "930": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "2",
+            "17252",
+            "Singing River Elec Pwr Assn",
+            "MS",
+            "72,524",
+            "0"
+        ],
+        [
+            "3",
+            "11843",
+            "Maui Electric Co Ltd",
+            "HI",
+            "6,908",
+            "30"
+        ],
+        [
+            "11",
+            "17647",
+            "Southern Pine Elec Power Assn",
+            "MS",
+            "0",
+            "66,442"
+        ],
+        [
+            "9",
+            "5574",
+            "East Central Energy",
+            "WI",
+            "5,127",
+            "0"
+        ],
+        [
+            "8",
+            "22053",
+            "Kentucky Power Co",
+            "KY",
+            "167,991",
+            "3"
+        ],
+        [
+            "9",
+            "3522",
+            "Chugach Electric Assn Inc",
+            "AK",
+            "48,174",
+            "37,003"
+        ],
+        [
+            "12",
+            "16609",
+            "San Diego Gas & Electric Co",
+            "CA",
+            "129",
+            "1,415,481"
+        ],
+        [
+            "3",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "ID",
+            "0",
+            "2,548"
+        ],
+        [
+            "7",
+            "13780",
+            "Northern States Power Co",
+            "WI",
+            "235,068",
+            "0"
+        ],
+        [
+            "3",
+            "17637",
+            "Southern Maryland Elec Coop Inc",
+            "MD",
+            "84,190",
+            "854"
+        ]
+    ],
+    "940": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "14724",
+            "Pennyrile Rural Electric Coop",
+            "KY",
+            "0",
+            "43,465"
+        ],
+        [
+            "10",
+            "19293",
+            "Southeastern Electric Coop Inc - (SD)",
+            "SD",
+            "16,086",
+            "0"
+        ],
+        [
+            "1",
+            "15257",
+            "Poudre Valley Associated Services, Inc.",
+            "CO",
+            "14",
+            "37,885"
+        ],
+        [
+            "11",
+            "20521",
+            "Wheeling Power Co",
+            "WV",
+            "41,633",
+            "66"
+        ],
+        [
+            "11",
+            "4922",
+            "Dayton Power & Light Co",
+            "OH",
+            "285,766",
+            "0"
+        ],
+        [
+            "11",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "7,297",
+            "0"
+        ],
+        [
+            "7",
+            "3266",
+            "Central Maine Power Co",
+            "ME",
+            "60",
+            "627,483"
+        ],
+        [
+            "7",
+            "3236",
+            "Central Electric Coop, Inc - (SD)",
+            "SD",
+            "7,195",
+            "0"
+        ],
+        [
+            "6",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "ID",
+            "0",
+            "25,509"
+        ],
+        [
+            "8",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "UT",
+            "0",
+            "696"
+        ]
+    ],
+    "950": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "6",
+            "14354",
+            "PacifiCorp",
+            "OR",
+            "111,063",
+            "0"
+        ],
+        [
+            "4",
+            "12681",
+            "Mississippi County Electric Co",
+            "AR",
+            "4,399",
+            "0"
+        ],
+        [
+            "4",
+            "19876",
+            "Virginia Electric & Power Co",
+            "VA",
+            "1,955,978",
+            "363,981"
+        ],
+        [
+            "12",
+            "14711",
+            "Pennsylvania Electric Co",
+            "PA",
+            "1,457",
+            "0"
+        ],
+        [
+            "5",
+            "10454",
+            "Kootenai Electric Cooperative",
+            "WA",
+            "0",
+            "96"
+        ],
+        [
+            "6",
+            "6779",
+            "City of Fremont - (NE)",
+            "NE",
+            "15,489",
+            "0"
+        ],
+        [
+            "12",
+            "733",
+            "Appalachian Power Co",
+            "VA",
+            "526,816",
+            "1,340"
+        ],
+        [
+            "9",
+            "14354",
+            "PacifiCorp",
+            "WA",
+            "127,954",
+            "0"
+        ],
+        [
+            "2",
+            "20169",
+            "Avista Corp",
+            "ID",
+            "128,330",
+            "0"
+        ],
+        [
+            "8",
+            "471",
+            "Amana Society Service Co",
+            "IA",
+            "884",
+            "0"
+        ]
+    ],
+    "960": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "15263",
+            "The Potomac Edison Company",
+            "MD",
+            "9,022",
+            "0"
+        ],
+        [
+            "7",
+            "16183",
+            "Rochester Gas & Electric Corp",
+            "NY",
+            "677",
+            "0"
+        ],
+        [
+            "11",
+            "3758",
+            "City of Cleveland - (TN)",
+            "TN",
+            "0",
+            "31,065"
+        ],
+        [
+            "5",
+            "11241",
+            "Entergy Louisiana LLC",
+            "LA",
+            "20,002",
+            "12,460"
+        ],
+        [
+            "12",
+            "9336",
+            "Intermountain Rural Elec Assn",
+            "CO",
+            "151,215",
+            "0"
+        ],
+        [
+            "12",
+            "17833",
+            "City Utilities of Springfield - (MO)",
+            "MO",
+            "5,638",
+            "28,282"
+        ],
+        [
+            "7",
+            "4254",
+            "Consumers Energy Co",
+            "MI",
+            "0",
+            "1,042,217"
+        ],
+        [
+            "8",
+            "16609",
+            "San Diego Gas & Electric Co",
+            "CA",
+            "142",
+            "1,403,924"
+        ],
+        [
+            "6",
+            "14537",
+            "Pascoag Utility District",
+            "RI",
+            "4,595",
+            "0"
+        ],
+        [
+            "7",
+            "13781",
+            "Northern States Power Co - Minnesota",
+            "MN",
+            "1,228,301",
+            "0"
+        ]
+    ],
+    "970": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "8",
+            "19840",
+            "Valley Electric Assn, Inc",
+            "CA",
+            "45",
+            "0"
+        ],
+        [
+            "11",
+            "20856",
+            "Wisconsin Power & Light Co",
+            "WI",
+            "71",
+            "465,545"
+        ],
+        [
+            "2",
+            "3812",
+            "City of Clinton - (TN)",
+            "TN",
+            "0",
+            "29,208"
+        ],
+        [
+            "12",
+            "12866",
+            "Moon Lake Electric Assn Inc",
+            "UT",
+            "16,700",
+            "0"
+        ],
+        [
+            "8",
+            "5070",
+            "Delaware Electric Cooperative",
+            "DE",
+            "88,048",
+            "0"
+        ],
+        [
+            "1",
+            "22814",
+            "Raft Rural Elec Coop Inc",
+            "NV",
+            "0",
+            "1,777"
+        ],
+        [
+            "1",
+            "19273",
+            "City of Tupelo - (MS)",
+            "MS",
+            "11",
+            "0"
+        ],
+        [
+            "8",
+            "4226",
+            "Consolidated Edison Co-NY Inc",
+            "NY",
+            "1,361,298",
+            "0"
+        ],
+        [
+            "6",
+            "20413",
+            "Mountrail-Williams Elec Coop",
+            "ND",
+            "19,635",
+            "0"
+        ],
+        [
+            "11",
+            "803",
+            "Arizona Public Service Co",
+            "AZ",
+            "290",
+            "1,201,503"
+        ]
+    ],
+    "980": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "9",
+            "20997",
+            "Yellowstone Valley Elec Co-op",
+            "MT",
+            "19,198",
+            "0"
+        ],
+        [
+            "5",
+            "11273",
+            "Lower Valley Energy Inc",
+            "ID",
+            "0",
+            "1,686"
+        ],
+        [
+            "12",
+            "19446",
+            "Duke Energy Kentucky",
+            "KY",
+            "103,846",
+            "39,594"
+        ],
+        [
+            "3",
+            "14354",
+            "PacifiCorp",
+            "CA",
+            "6,539",
+            "0"
+        ],
+        [
+            "2",
+            "17564",
+            "South Kentucky Rural E C C",
+            "TN",
+            "0",
+            "184"
+        ],
+        [
+            "11",
+            "7601",
+            "Green Mountain Power Corp",
+            "VT",
+            "2,046",
+            "262,567"
+        ],
+        [
+            "3",
+            "12470",
+            "Middle Tennessee E M C",
+            "TN",
+            "0",
+            "126,588"
+        ],
+        [
+            "3",
+            "7490",
+            "Grand River Dam Authority",
+            "OK",
+            "0",
+            "173"
+        ],
+        [
+            "4",
+            "10596",
+            "City of Lake Crystal - (MN)",
+            "MN",
+            "1,194",
+            "0"
+        ],
+        [
+            "6",
+            "20169",
+            "Avista Corp",
+            "ID",
+            "128,026",
+            "0"
+        ]
+    ],
+    "990": [
+        [
+            "Month",
+            "Utility_Number",
+            "Name",
+            "State",
+            "AMR_Total",
+            "AMI_Total"
+        ],
+        [
+            "10",
+            "1769",
+            "Black Hills Electric Coop, Inc",
+            "SD",
+            "244",
+            "9,502"
+        ],
+        [
+            "8",
+            "11135",
+            "City of Logan - (UT)",
+            "UT",
+            "0",
+            "20,243"
+        ],
+        [
+            "10",
+            "599",
+            "Anchorage Municipal Light and Power",
+            "AK",
+            "30,452",
+            "0"
+        ],
+        [
+            "4",
+            "19898",
+            "Volunteer Electric Coop",
+            "TN",
+            "0",
+            "113,697"
+        ],
+        [
+            "5",
+            "13478",
+            "Entergy New Orleans Inc",
+            "LA",
+            "6,065",
+            "4,280"
+        ],
+        [
+            "6",
+            "19790",
+            "Verendrye Electric Coop Inc",
+            "ND",
+            "0",
+            "16,278"
+        ],
+        [
+            "1",
+            "17166",
+            "Sierra Pacific Power Co",
+            "NV",
+            "196",
+            "342,998"
+        ],
+        [
+            "10",
+            "13697",
+            "North Central Power Co Inc",
+            "WI",
+            "0",
+            "0"
+        ],
+        [
+            "1",
+            "814",
+            "Entergy Arkansas Inc",
+            "AR",
+            "18,460",
+            "684"
+        ],
+        [
+            "8",
+            "11208",
+            "Los Angeles Department of Water & Power",
+            "CA",
+            "423,812",
+            "8,157"
+        ]
+    ]
+}
