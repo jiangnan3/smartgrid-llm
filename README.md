@@ -10,6 +10,7 @@ The project structure is shown below. prompt_injection.py and prompt_injeciton.p
 
 An OpenAI API Token will be needed to run the code.
 
+```bash
 smartgrid-llm/
 ├── SGLLM/
 │   ├── attack.py
@@ -36,3 +37,4 @@ smartgrid-llm/
 │       ├── **evaluation result files**
 ├── prompt_extraction.py
 ├── prompt_injection.py
+```
