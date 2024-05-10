@@ -2,13 +2,12 @@
 
 This repo provides the source code data associated with the following paper
 
-*Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation*
-
-by Jiangnan Li, Yingyuan Yang, and Jinyuan Sun.
+**Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation**
+**by Jiangnan Li, Yingyuan Yang, and Jinyuan Sun**
 
 The project structure is shown below. prompt_injection.py and prompt_injeciton.py are the simulations for the Bad Data Injection attack and Domain Knowledge Extraction attack respectively.
 
-An OpenAI API Token will be needed to run the code.
+An OpenAI API Token will be needed to run the code. Please add it to the credential.py definition.
 
 ```bash
 smartgrid-llm/
@@ -37,4 +36,5 @@ smartgrid-llm/
 │       ├── **evaluation result files**
 ├── prompt_extraction.py
 ├── prompt_injection.py
+├── credential.py
 ```
