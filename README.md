@@ -8,7 +8,7 @@ This repo provides the source code data associated with the following paper
 
 The project structure is shown below. **prompt_injection.py** and **prompt_injeciton.py** are the simulations for the Bad Data Injection attack and Domain Knowledge Extraction attack respectively.
 
-An OpenAI API Token will be needed to run the code. Please add it to the credential.py definition.
+An OpenAI API Token will be needed to run the OpenAI model evaluation, and a Huggingface LLaMA-3 endpoint and token are needed to run Meta LLaMA-3 evaluation. Please add them to the credential.py definition.
 
 ```bash
 smartgrid-llm/
@@ -33,6 +33,8 @@ smartgrid-llm/
 │   │   ├── gpt35-normal.json
 │   │   ├── gpt4-attack.json
 │   │   ├── gpt4-normal.json
+|   |   |── llama3-attack.json
+|   |   |── llama3-normal.json
 │   ├── prompt-injection/
 │       ├── **evaluation result files**
 ├── prompt_extraction.py
