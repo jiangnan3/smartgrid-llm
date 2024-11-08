@@ -1,10 +1,11 @@
-from credentials import OPENAI_API_KEY
-from SGLLM.llms import OpenAIClient
+from credentials import OPENAI_API_KEY, HUGGINGFACE_API_KEY, HUGGINGFACE_ENDPOINT_LLAMA
+from SGLLM.llms import OpenAIClient, HuggingfaceClient
 from SGLLM.attacks import PromptInjection
 from SGLLM.utilities import read_json_to_dict, binary_classification_result_evaluation, save_dictionary_to_json
 
 GPT4_MODEL = "gpt-4-turbo"
 GPT3_MODEL = "gpt-3.5-turbo"
+LLAMA3_MODEL = "llama-3"
 
 
 BINARY_DATA = read_json_to_dict("data/prompt-injection/data_binary_classification.json")
@@ -16,10 +17,15 @@ RESULT_PATH = "evaluation/prompt-injection/"
 INJECTION_PROMPT = read_json_to_dict("data/prompt-injection/injection_prompt.json")
 
 
-def binary_openai_evaluation(model, temp=0, with_injection=False, inject_prompt="blank", verbose=False):
-    openai_client = OpenAIClient(api_token=OPENAI_API_KEY, model_name=model, temperature=temp)
-    openai_client.set_pre_prompt(OpenAIClient.prompt_read(BINARY_PROMPTS))
-    injection_client = PromptInjection(openai_client=openai_client)
+def binary_evaluation(model, temp=0, with_injection=False, inject_prompt="blank", verbose=False):
+    if model == LLAMA3_MODEL:
+        huggingface_client = HuggingfaceClient(api_token=HUGGINGFACE_API_KEY, endpoint_url=HUGGINGFACE_ENDPOINT_LLAMA)
+        huggingface_client.set_pre_prompt(HuggingfaceClient.prompt_read(BINARY_PROMPTS))
+        injection_client = PromptInjection(openai_client=huggingface_client)
+    else:
+        openai_client = OpenAIClient(api_token=OPENAI_API_KEY, model_name=model, temperature=temp)
+        openai_client.set_pre_prompt(OpenAIClient.prompt_read(BINARY_PROMPTS))
+        injection_client = PromptInjection(openai_client=openai_client)
 
     if with_injection:
         injection_prompt_msg = INJECTION_PROMPT[inject_prompt]['msg']
@@ -46,11 +52,32 @@ def binary_openai_evaluation(model, temp=0, with_injection=False, inject_prompt=
 
 
 def prompt_injection_main():
-    print(f"Running binary classification evaluation for {GPT3_MODEL} without injection")
-    binary_openai_evaluation(GPT3_MODEL, with_injection=False, verbose=True)
+    # # gpt-3.5 normal
+    # print(f"Running binary classification evaluation for {GPT3_MODEL} without prompt injection")
+    # binary_evaluation(GPT3_MODEL, with_injection=False, verbose=True)
+    #
+    # # gpt-3.5 with injection
+    # for injection_type in ["only_yes", "only_no", "reverse"]:
+    #     print(f"Running binary classification evaluation for {GPT3_MODEL} with {injection_type} injection")
+    #     binary_evaluation(GPT3_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
+    #
+    # # gpt-4 normal
+    # print(f"Running binary classification evaluation for {GPT4_MODEL} without prompt injection")
+    # binary_evaluation(GPT4_MODEL, with_injection=False, verbose=True)
+    #
+    # # gpt-4 with injection
+    # for injection_type in ["only_yes", "only_no", "reverse"]:
+    #     print(f"Running binary classification evaluation for {GPT4_MODEL} with {injection_type} injection")
+    #     binary_evaluation(GPT4_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
 
-    print(f"Running binary classification evaluation for {GPT4_MODEL} without injection")
-    binary_openai_evaluation(GPT4_MODEL, with_injection=False, verbose=True)
+    # llama-3 normal
+    print(f"Running binary classification evaluation for {LLAMA3_MODEL} without prompt injection")
+    binary_evaluation(LLAMA3_MODEL, with_injection=False, verbose=True)
+
+    # gpt-4 with injection
+    for injection_type in ["only_yes", "only_no", "reverse"]:
+        print(f"Running binary classification evaluation for {LLAMA3_MODEL} with {injection_type} injection")
+        binary_evaluation(LLAMA3_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
 
 
 if __name__ == '__main__':

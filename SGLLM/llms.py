@@ -36,7 +36,8 @@ class OpenAIClient:
         response = self.client.chat.completions.create(
             model=model_name,
             messages=query_msg,
-            temperature=self.temperature
+            temperature=self.temperature,
+            max_tokens=200,
         )
         return response.choices[0].message.content
 
@@ -48,7 +49,8 @@ class OpenAIClient:
             messages=[
                 {"role": "user", "content": message},
             ],
-            temperature=self.temperature
+            temperature=self.temperature,
+            max_tokens=200,
         )
         return response.choices[0].message.content
 
@@ -58,10 +60,25 @@ class OpenAIClient:
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "user", "content": test_msg},
-            ],
-
+            ]
         )
         print(response.choices[0].message.content)
 
 
+class HuggingfaceClient(OpenAIClient):
+    def __init__(self, api_token: str, endpoint_url: str, model_name="tgi", temperature=0):
+        super().__init__(api_token, model_name, temperature)
+        self.base_url = f"{endpoint_url}/v1/"
+        self.client = OpenAI(base_url=self.base_url, api_key=api_token)
+
+    def validation_test(self):
+        test_msg = ("This is a test message to test the connection to the Huggingface Lamma-3 endpoint, "
+                    "reply 'CONNECTION CONFIRMED' if you can see this message.")
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {"role": "user", "content": test_msg},
+            ]
+        )
+        print(response.choices[0].message.content)
 

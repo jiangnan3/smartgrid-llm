@@ -1,0 +1,12 @@
+.gitignore
+
+credentials.py
+playground.py
+
+sample_prompt.txt
+
+
+.idea/
+__pycache__/
+SGLLM/__pycache__/
+
