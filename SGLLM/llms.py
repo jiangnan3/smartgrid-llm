@@ -82,3 +82,38 @@ class HuggingfaceClient(OpenAIClient):
         )
         print(response.choices[0].message.content)
 
+
+class GoogleGeminiAPIClient(OpenAIClient):
+    def __init__(self, api_token: str, model_name="gemini-2.0-flash", temperature=0):
+        super().__init__(api_token, model_name, temperature)
+        self.base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"
+        self.client = OpenAI(base_url=self.base_url, api_key=api_token)
+
+    def validation_test(self):
+        test_msg = ("This is a test message to test the connection to the Google Gemini endpoint, "
+                    "reply 'CONNECTION CONFIRMED' if you can see this message.")
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {"role": "user", "content": test_msg},
+            ]
+        )
+        print(response.choices[0].message.content)
+
+
+class DeepSeekAPIClient(OpenAIClient):
+    def __init__(self, api_token: str, model_name="deepseek-chat", temperature=0):
+        super().__init__(api_token, model_name, temperature)
+        self.base_url = "https://api.deepseek.com"
+        self.client = OpenAI(base_url=self.base_url, api_key=api_token)
+
+    def validation_test(self):
+        test_msg = ("This is a test message to test the connection to the DeepSeek endpoint, "
+                    "reply 'CONNECTION CONFIRMED' if you can see this message.")
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {"role": "user", "content": test_msg},
+            ]
+        )
+        print(response.choices[0].message.content)

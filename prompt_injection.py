@@ -1,11 +1,13 @@
-from credentials import OPENAI_API_KEY, HUGGINGFACE_API_KEY, HUGGINGFACE_ENDPOINT_LLAMA
-from SGLLM.llms import OpenAIClient, HuggingfaceClient
+from credentials import OPENAI_API_KEY, HUGGINGFACE_API_KEY, HUGGINGFACE_ENDPOINT_LLAMA, GOOGLE_GEMINI_API_KEY, DEEPSEEK_API_KEY
+from SGLLM.llms import OpenAIClient, HuggingfaceClient, GoogleGeminiAPIClient, DeepSeekAPIClient
 from SGLLM.attacks import PromptInjection
 from SGLLM.utilities import read_json_to_dict, binary_classification_result_evaluation, save_dictionary_to_json
 
 GPT4_MODEL = "gpt-4-turbo"
 GPT3_MODEL = "gpt-3.5-turbo"
 LLAMA3_MODEL = "llama-3"
+GOOGLE_GEMINI_MODEL = "gemini-2.0-flash"
+DEEPSEEK_MODEL = "deepseek-chat"
 
 
 BINARY_DATA = read_json_to_dict("data/prompt-injection/data_binary_classification.json")
@@ -22,6 +24,14 @@ def binary_evaluation(model, temp=0, with_injection=False, inject_prompt="blank"
         huggingface_client = HuggingfaceClient(api_token=HUGGINGFACE_API_KEY, endpoint_url=HUGGINGFACE_ENDPOINT_LLAMA)
         huggingface_client.set_pre_prompt(HuggingfaceClient.prompt_read(BINARY_PROMPTS))
         injection_client = PromptInjection(openai_client=huggingface_client)
+    elif model == GOOGLE_GEMINI_MODEL:
+        google_gemini_client = GoogleGeminiAPIClient(api_token=GOOGLE_GEMINI_API_KEY, model_name=model, temperature=temp)
+        google_gemini_client.set_pre_prompt(GoogleGeminiAPIClient.prompt_read(BINARY_PROMPTS))
+        injection_client = PromptInjection(openai_client=google_gemini_client)
+    elif model == DEEPSEEK_MODEL:
+        deepseek_client = DeepSeekAPIClient(api_token=DEEPSEEK_API_KEY, model_name=model, temperature=temp)
+        deepseek_client.set_pre_prompt(DeepSeekAPIClient.prompt_read(BINARY_PROMPTS))
+        injection_client = PromptInjection(openai_client=deepseek_client)
     else:
         openai_client = OpenAIClient(api_token=OPENAI_API_KEY, model_name=model, temperature=temp)
         openai_client.set_pre_prompt(OpenAIClient.prompt_read(BINARY_PROMPTS))
@@ -71,13 +81,31 @@ def prompt_injection_main():
     #     binary_evaluation(GPT4_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
 
     # llama-3 normal
-    print(f"Running binary classification evaluation for {LLAMA3_MODEL} without prompt injection")
-    binary_evaluation(LLAMA3_MODEL, with_injection=False, verbose=True)
+    # print(f"Running binary classification evaluation for {LLAMA3_MODEL} without prompt injection")
+    # binary_evaluation(LLAMA3_MODEL, with_injection=False, verbose=True)
 
-    # gpt-4 with injection
+    # llama-3 with injection
+    # for injection_type in ["only_yes", "only_no", "reverse"]:
+    #     print(f"Running binary classification evaluation for {LLAMA3_MODEL} with {injection_type} injection")
+    #     binary_evaluation(LLAMA3_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
+
+    # gemini-2.0-flash normal
+    # print(f"Running binary classification evaluation for {GOOGLE_GEMINI_MODEL} without prompt injection")
+    # binary_evaluation(GOOGLE_GEMINI_MODEL, with_injection=False, verbose=True)
+    #
+    # # gemini-2.0-flash with injection
+    # for injection_type in ["only_yes", "only_no", "reverse"]:
+    #     print(f"Running binary classification evaluation for {GOOGLE_GEMINI_MODEL} with {injection_type} injection")
+    #     binary_evaluation(GOOGLE_GEMINI_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
+
+    # deepseek-chat normal
+    print(f"Running binary classification evaluation for {DEEPSEEK_MODEL} without prompt injection")
+    binary_evaluation(DEEPSEEK_MODEL, with_injection=False, verbose=True)
+    #
+    # # deepseek with injection
     for injection_type in ["only_yes", "only_no", "reverse"]:
-        print(f"Running binary classification evaluation for {LLAMA3_MODEL} with {injection_type} injection")
-        binary_evaluation(LLAMA3_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
+        print(f"Running binary classification evaluation for {DEEPSEEK_MODEL} with {injection_type} injection")
+        binary_evaluation(DEEPSEEK_MODEL, with_injection=True, inject_prompt=injection_type, verbose=True)
 
 
 if __name__ == '__main__':
